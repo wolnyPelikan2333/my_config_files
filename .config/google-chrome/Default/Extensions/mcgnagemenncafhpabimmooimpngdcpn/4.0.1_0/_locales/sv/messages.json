@@ -1,0 +1,176 @@
+{
+   "conversion_complete": {
+      "message": "Konverteringen klar."
+   },
+   "ext_description": {
+      "message": "Qwer PDF-tillägget är Online Konvertera PDF till Word & Excel, PPT & PDF Editor - 100 % gratis. Öka din produktivitet."
+   },
+   "ext_name": {
+      "message": "Qwer PDF"
+   },
+   "logo_title_text": {
+      "message": "online och 100 % gratis"
+   },
+   "notifications_conversion_complete_title": {
+      "message": " Konverteringen klar."
+   },
+   "notifications_conversion_failed_title": {
+      "message": "Konverteringsfel."
+   },
+   "notifications_conversion_msg": {
+      "message": "100% gratis onlinekonverteringsverktyg"
+   },
+   "page_compress_pdf": {
+      "message": "Komprimera PDF"
+   },
+   "page_converting_hint": {
+      "message": "Stäng inte din webbläsare Vänta tills dina filer laddas upp och bearbetas! \u003Cbr> Det kan ta några minuter.:)"
+   },
+   "page_converting_text": {
+      "message": "Konverterar {{title}}..."
+   },
+   "page_download_btn_text": {
+      "message": "Ladda ner"
+   },
+   "page_edit_pdf": {
+      "message": " Redigera PDF"
+   },
+   "page_excel_online": {
+      "message": "Excel Online"
+   },
+   "page_excel_online_create": {
+      "message": "Excel skapa"
+   },
+   "page_excel_online_editor": {
+      "message": "Excel Redigera"
+   },
+   "page_excel_online_view": {
+      "message": "Excel Náhled"
+   },
+   "page_excel_to_pdf": {
+      "message": "Excel till PDF"
+   },
+   "page_html_to_pdf": {
+      "message": "HTML till PDF"
+   },
+   "page_jpg_to_pdf": {
+      "message": "JPG till PDF"
+   },
+   "page_login": {
+      "message": "Logga in"
+   },
+   "page_merge_pdf": {
+      "message": "Slå ihop PDF"
+   },
+   "page_online_office": {
+      "message": "ONLINE OFFICE"
+   },
+   "page_page_number": {
+      "message": "Sidnummer"
+   },
+   "page_pdf_convert": {
+      "message": "Konvertera"
+   },
+   "page_pdf_to_excel": {
+      "message": "PDF till Excel"
+   },
+   "page_pdf_to_html": {
+      "message": "PDF till HTML"
+   },
+   "page_pdf_to_jpg": {
+      "message": "PDF till JPG"
+   },
+   "page_pdf_to_png": {
+      "message": "PDF till PNG"
+   },
+   "page_pdf_to_ppt": {
+      "message": "PDF till PPT"
+   },
+   "page_pdf_to_word": {
+      "message": "PDF till Word"
+   },
+   "page_png_to_pdf": {
+      "message": "PNG till PDF"
+   },
+   "page_powerpoint_viewer": {
+      "message": "PPT Náhled"
+   },
+   "page_ppt_online": {
+      "message": "PowerPoint Online"
+   },
+   "page_ppt_online_create": {
+      "message": "PPT skapa"
+   },
+   "page_ppt_online_editor": {
+      "message": "PPT Redigera"
+   },
+   "page_ppt_to_pdf": {
+      "message": "PPT till PDF"
+   },
+   "page_protect_pdf": {
+      "message": "Skydda PDF"
+   },
+   "page_rateus": {
+      "message": "⭑gradera oss"
+   },
+   "page_remove_pdf": {
+      "message": "Ta bort sidor"
+   },
+   "page_save_as_pdf": {
+      "message": "Spara som PDF"
+   },
+   "page_sign_pdf": {
+      "message": "Signera PDF"
+   },
+   "page_split_pdf": {
+      "message": "Dela PDF"
+   },
+   "page_time_hint": {
+      "message": "Lagringstid för dokument"
+   },
+   "page_time_hours": {
+      "message": "Timmar"
+   },
+   "page_time_minutes": {
+      "message": "Minuter"
+   },
+   "page_time_seconds": {
+      "message": "Sekunder"
+   },
+   "page_unlock_pdf": {
+      "message": "Lås upp PDF"
+   },
+   "page_upload_desc": {
+      "message": "Välj fil eller dra filen här"
+   },
+   "page_upload_progress_text": {
+      "message": "Uppladdning..."
+   },
+   "page_watermark_pdf": {
+      "message": " Vattenstämpel"
+   },
+   "page_word_online": {
+      "message": "Word Online"
+   },
+   "page_word_online_create": {
+      "message": "Word skapa"
+   },
+   "page_word_online_editor": {
+      "message": " Word Redigera"
+   },
+   "page_word_online_view": {
+      "message": "Word Náhled"
+   },
+   "page_word_to_pdf": {
+      "message": "Word till PDF"
+   },
+   "upload_err_msg": {
+      "message": "Det gick inte att ladda upp filen. Försök igen senare."
+   },
+   "upload_file_too_big": {
+      "message": "Filen är för stor"
+   },
+   "upload_file_too_big_msg": {
+      "message": "Filen är för stor ({{filesize}} MiB). Max filstorlek: {{maxFilesize}} MiB."
+   }
+}

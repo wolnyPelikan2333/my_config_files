@@ -1,0 +1,134 @@
+{
+   "account_expires_premium_body": {
+      "message": "Twoje konto premium wygaśnie za mniej niż 3 dni."
+   },
+   "account_expires_premium_header": {
+      "message": "Twoje konto wkrótce wygaśnie"
+   },
+   "account_expires_transfer_body": {
+      "message": "Masz mniej niż 4 GB dostępnego transferu."
+   },
+   "account_expires_transfer_header": {
+      "message": "Twoje konto ma niski stan transferu"
+   },
+   "account_status": {
+      "message": "Stan konta"
+   },
+   "account_type": {
+      "message": "Stan konta"
+   },
+   "content_parser_body": {
+      "message": "Gdy przeglądasz internet wtyczka automatycznie skanuje strony aby znaleźć obsługiwane odnośniki. Znalezione linki są oznaczane małą ikonką. Jej obecność oznacza, że możesz łatwo pobrać dany plik używając menu kontekstowego (prawy przycisk myszy)."
+   },
+   "content_parser_header": {
+      "message": "Użyj parsera zawartości podstron aby zaznaczać kompatybilne linki"
+   },
+   "download": {
+      "message": "Pobierz"
+   },
+   "download_icon_title": {
+      "message": "Pobierz z Rapideo.pl"
+   },
+   "download_with": {
+      "message": "Pobierz z Rapideo.pl"
+   },
+   "error_occured": {
+      "message": "Wystąpił błąd"
+   },
+   "extension_description": {
+      "message": "Natywna wtyczka dla serwisu Rapideo.pl"
+   },
+   "extension_name": {
+      "message": "Rapideo.pl"
+   },
+   "file_download": {
+      "message": "Pobierz pliki"
+   },
+   "file_search": {
+      "message": "Wyszukaj pliki"
+   },
+   "hide_24h": {
+      "message": "Ukryj na 24h"
+   },
+   "language": {
+      "message": "pl"
+   },
+   "login": {
+      "message": "Login"
+   },
+   "login_action": {
+      "message": "Zaloguj"
+   },
+   "logout": {
+      "message": "Wyloguj"
+   },
+   "low_account_notifications_body": {
+      "message": "Jeżeli stan Twojego konta będzie niski (poniżej 2 dni premium lub poniżej 5 GB transferu) raz dziennie otrzymasz informację w postaci powiadomienia."
+   },
+   "low_account_notifications_header": {
+      "message": "Powiadomienia o niskim stanie konta"
+   },
+   "messages": {
+      "message": "Wiadomości"
+   },
+   "no_account": {
+      "message": "Nie mam konta"
+   },
+   "no_links_body": {
+      "message": "Zaznaczenie nie posiada linków, które mogłyby być pobrane za pomocą Rapideo.pl"
+   },
+   "no_links_title": {
+      "message": "Brak linków"
+   },
+   "not_logged_body": {
+      "message": "Zaloguj się aby korzystać z tej funkcjonalności."
+   },
+   "not_logged_title": {
+      "message": "Nie jesteś zalogowany we wtyczce"
+   },
+   "off": {
+      "message": "Wyłączone"
+   },
+   "on": {
+      "message": "Włączone"
+   },
+   "password": {
+      "message": "Hasło"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "search": {
+      "message": "Szukaj"
+   },
+   "service_messages_body": {
+      "message": "W tle otrzymujesz wiadomości od Rapideo informujące o zmianach i promocjach. Wybierz, czy po otrzymaniu wiadomości informacja ma się pojawić automatycznie w nowej zakładce. Zawsze możesz otworzyć tę podstronę z poziomu głównego interfejsu wtyczki."
+   },
+   "service_messages_header": {
+      "message": "Pokazuj wiadomości z usługi w nowej zakładce"
+   },
+   "settings": {
+      "message": "Ustawienia"
+   },
+   "show_hostings_button_body": {
+      "message": "Gdy przejdziesz na stronę obsługiwanego hostingu, w prawym górnym rogu pojawia się przycisk który umożliwia natychmiastowe pobranie pliku. Ustaw, czy chcesz żeby był on widoczny. Klikając na przycisk możesz wybrać, aby pozostał on ukryty przez 24 godziny."
+   },
+   "show_hostings_button_header": {
+      "message": "Pokaż przycisk pobierania na stronach wspieranych hostingów"
+   },
+   "submit": {
+      "message": "Wyślij"
+   },
+   "top_up_account": {
+      "message": "Doładuj konto"
+   },
+   "tos_privacy_policy": {
+      "message": "Regulamin, polityka prywatności"
+   },
+   "transfer": {
+      "message": "Transfer"
+   },
+   "valid_untill": {
+      "message": "Ważne do: %when%"
+   }
+}

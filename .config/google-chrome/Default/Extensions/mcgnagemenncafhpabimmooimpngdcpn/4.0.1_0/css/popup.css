@@ -1,0 +1,33 @@
+.abcdpdf_popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.abcdpdf_popup iframe {
+    width: 800px;
+    height: 600px;
+    border: none;
+    border-radius: 6px;
+}
+
+.abcdpdf_inject {
+    margin-bottom: 30px;
+}
+
+.abcdpdf_inject a > h3 {
+    margin-bottom: 10px;
+}
+
+.abcdpdf_inject iframe {
+    width: 100%;
+    height: 500px;
+    border: none;
+}

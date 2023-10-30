@@ -1,0 +1,9 @@
+2023/10/30-17:20:42.332 4 Reusing MANIFEST /home/michal/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2023/10/30-17:20:42.334 4 Recovering log #72
+2023/10/30-17:20:42.335 4 Level-0 table #75: started
+2023/10/30-17:20:42.337 4 Level-0 table #75: 46970 bytes OK
+2023/10/30-17:20:42.341 4 Delete type=0 #72
+2023/10/30-17:20:42.341 6 Compacting 4@0 + 1@1 files
+2023/10/30-17:20:42.360 6 Generated table #77@0: 1479 keys, 286142 bytes
+2023/10/30-17:20:42.360 6 Compacted 4@0 + 1@1 files => 286142 bytes
+2023/10/30-17:20:42.362 6 compacted to: files[ 0 1 1 0 0 0 0 ]

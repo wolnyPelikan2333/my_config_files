@@ -1,0 +1,179 @@
+{
+   "conversion_complete": {
+      "message": "การแปลงเสร็จสมบูรณ์"
+   },
+   "ext_description": {
+      "message": "ส่วนขยาย Qwer PDF คือการแปลงไฟล์ PDF เป็น Word & Excel, PPT & PDF Editor แบบออนไลน์ - ฟรี 100% เพิ่มประสิทธิภาพการทำงานของคุณ"
+   },
+   "ext_name": {
+      "message": "Qwer PDF"
+   },
+   "file_logo_title_text": {
+      "message": "ออนไลน์และฟรี 100%"
+   },
+   "logo_title_text": {
+      "message": "ออนไลน์และฟรี 100%"
+   },
+   "notifications_conversion_complete_title": {
+      "message": " การแปลงเสร็จสมบูรณ์."
+   },
+   "notifications_conversion_failed_title": {
+      "message": "ข้อผิดพลาดในการแปลง"
+   },
+   "notifications_conversion_msg": {
+      "message": "เครื่องมือแปลงออนไลน์ฟรี 100%"
+   },
+   "page_compress_pdf": {
+      "message": "บีบอัด PDF"
+   },
+   "page_converting_hint": {
+      "message": "อย่าปิดเบราว์เซอร์ของคุณ รอจนกว่าไฟล์ของคุณจะถูกอัปโหลดและประมวลผล!\u003Cbr>อาจใช้เวลาสักครู่ :)"
+   },
+   "page_converting_text": {
+      "message": "กำลังแปลง {{title}}..."
+   },
+   "page_download_btn_text": {
+      "message": "ดาวน์โหลด"
+   },
+   "page_edit_pdf": {
+      "message": "แก้ไข PDF"
+   },
+   "page_excel_online": {
+      "message": "Excel Online"
+   },
+   "page_excel_online_create": {
+      "message": "Excel Create"
+   },
+   "page_excel_online_editor": {
+      "message": "Excel แก้ไข"
+   },
+   "page_excel_online_view": {
+      "message": "Excel View"
+   },
+   "page_excel_to_pdf": {
+      "message": "Excel เป็น PDF"
+   },
+   "page_html_to_pdf": {
+      "message": "HTML เป็น PDF"
+   },
+   "page_jpg_to_pdf": {
+      "message": "JPG เป็น PDF"
+   },
+   "page_login": {
+      "message": "เข้าสู่ระบบ"
+   },
+   "page_merge_pdf": {
+      "message": "รวมไฟล์ PDF"
+   },
+   "page_online_office": {
+      "message": "สำนักงานออนไลน์"
+   },
+   "page_page_number": {
+      "message": "หมายเลขหน้า"
+   },
+   "page_pdf_convert": {
+      "message": "แปลง"
+   },
+   "page_pdf_to_excel": {
+      "message": "PDF เป็น Excel"
+   },
+   "page_pdf_to_html": {
+      "message": "PDF เป็น HTML"
+   },
+   "page_pdf_to_jpg": {
+      "message": "PDF เป็น JPG"
+   },
+   "page_pdf_to_png": {
+      "message": "PDF เป็น PNG"
+   },
+   "page_pdf_to_ppt": {
+      "message": "PDF เป็น PPT"
+   },
+   "page_pdf_to_word": {
+      "message": "PDF เป็น Word"
+   },
+   "page_png_to_pdf": {
+      "message": "PNG เป็น PDF"
+   },
+   "page_powerpoint_viewer": {
+      "message": "PPT View"
+   },
+   "page_ppt_online": {
+      "message": "PowerPoint Online"
+   },
+   "page_ppt_online_create": {
+      "message": "PPT Create"
+   },
+   "page_ppt_online_editor": {
+      "message": "PPT แก้ไข"
+   },
+   "page_ppt_to_pdf": {
+      "message": "PPT เป็น PDF"
+   },
+   "page_protect_pdf": {
+      "message": "ปกป้อง PDF"
+   },
+   "page_rateus": {
+      "message": "⭑ให้คะแนนเรา"
+   },
+   "page_remove_pdf": {
+      "message": "ลบหน้า PDF"
+   },
+   "page_save_as_pdf": {
+      "message": "บันทึกเป็น PDF"
+   },
+   "page_sign_pdf": {
+      "message": "เซ็น PDF"
+   },
+   "page_split_pdf": {
+      "message": "แยกไฟล์ PDF"
+   },
+   "page_time_hint": {
+      "message": "เวลาเก็บรักษาเอกสาร"
+   },
+   "page_time_hours": {
+      "message": "ชั่วโมง"
+   },
+   "page_time_minutes": {
+      "message": "นาที"
+   },
+   "page_time_seconds": {
+      "message": "วินาที"
+   },
+   "page_unlock_pdf": {
+      "message": "ปลดล็อก PDF"
+   },
+   "page_upload_desc": {
+      "message": "เลือกไฟล์หรือลากไฟล์ที่นี่"
+   },
+   "page_upload_progress_text": {
+      "message": "กำลังอัปโหลด..."
+   },
+   "page_watermark_pdf": {
+      "message": "ใส่ลายน้ำ"
+   },
+   "page_word_online": {
+      "message": "Word Online"
+   },
+   "page_word_online_create": {
+      "message": "Word Create"
+   },
+   "page_word_online_editor": {
+      "message": "Word แก้ไข"
+   },
+   "page_word_online_view": {
+      "message": "Word View"
+   },
+   "page_word_to_pdf": {
+      "message": "Word เป็น PDF"
+   },
+   "upload_err_msg": {
+      "message": "ขออภัย เกิดข้อผิดพลาดในการอัปโหลดไฟล์ โปรดลองอีกครั้งในภายหลัง"
+   },
+   "upload_file_too_big": {
+      "message": "ไฟล์ใหญ่เกินไป"
+   },
+   "upload_file_too_big_msg": {
+      "message": "ไฟล์ใหญ่เกินไป ({{filesize}} MiB) ขนาดไฟล์สูงสุด: {{maxFilesize}} MiB."
+   }
+}

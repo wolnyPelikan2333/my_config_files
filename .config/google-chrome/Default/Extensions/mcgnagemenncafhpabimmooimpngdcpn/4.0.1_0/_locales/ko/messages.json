@@ -1,0 +1,176 @@
+{
+   "conversion_complete": {
+      "message": "변환이 완료되었습니다."
+   },
+   "ext_description": {
+      "message": "Qwer PDF 확장자는 온라인에서 PDF를 Word 및 Excel, PPT 및 PDF 편집기로 변환 - 100% 무료입니다. 생산성을 높이십시오."
+   },
+   "ext_name": {
+      "message": "Qwer PDF"
+   },
+   "logo_title_text": {
+      "message": "온라인 및 100% 무료"
+   },
+   "notifications_conversion_complete_title": {
+      "message": " 변환이 완료되었습니다."
+   },
+   "notifications_conversion_failed_title": {
+      "message": "변환 오류입니다."
+   },
+   "notifications_conversion_msg": {
+      "message": "100% 무료 온라인 변환 도구"
+   },
+   "page_compress_pdf": {
+      "message": "PDF 압축"
+   },
+   "page_converting_hint": {
+      "message": "브라우저를 닫지 마십시오. 파일이 업로드되고 처리될 때까지 기다리세요!\u003Cbr>몇 분 정도 걸릴 수 있습니다.:)"
+   },
+   "page_converting_text": {
+      "message": "{{title}} 변환 중..."
+   },
+   "page_download_btn_text": {
+      "message": "다운로드"
+   },
+   "page_edit_pdf": {
+      "message": "PDF 편집기"
+   },
+   "page_excel_online": {
+      "message": "Excel Online"
+   },
+   "page_excel_online_create": {
+      "message": "엑셀 온라인 만들기"
+   },
+   "page_excel_online_editor": {
+      "message": "엑셀 온라인 편집기"
+   },
+   "page_excel_online_view": {
+      "message": "엑셀 온라인 보기"
+   },
+   "page_excel_to_pdf": {
+      "message": "Excel PDF로 변환"
+   },
+   "page_html_to_pdf": {
+      "message": "HTML PDF 로 변환"
+   },
+   "page_jpg_to_pdf": {
+      "message": "JPG PDF로 변환"
+   },
+   "page_login": {
+      "message": "로그인"
+   },
+   "page_merge_pdf": {
+      "message": "PDF 병합"
+   },
+   "page_online_office": {
+      "message": "온라인 사무실"
+   },
+   "page_page_number": {
+      "message": "페이지 번호"
+   },
+   "page_pdf_convert": {
+      "message": "변환"
+   },
+   "page_pdf_to_excel": {
+      "message": "PDF Excel로 변환"
+   },
+   "page_pdf_to_html": {
+      "message": "PDF HTML 로 변환"
+   },
+   "page_pdf_to_jpg": {
+      "message": "PDF JPG로 변환"
+   },
+   "page_pdf_to_png": {
+      "message": "PDF PNG로 변환"
+   },
+   "page_pdf_to_ppt": {
+      "message": "PDF PPT로 변환"
+   },
+   "page_pdf_to_word": {
+      "message": "PDF Word로 변환"
+   },
+   "page_png_to_pdf": {
+      "message": "PNG PDF로 변환"
+   },
+   "page_powerpoint_viewer": {
+      "message": "파워포인트 뷰어"
+   },
+   "page_ppt_online": {
+      "message": "PowerPoint Online"
+   },
+   "page_ppt_online_create": {
+      "message": "PPT 온라인 만들기"
+   },
+   "page_ppt_online_editor": {
+      "message": "PPT 편집"
+   },
+   "page_ppt_to_pdf": {
+      "message": "PPT PDF로 변환"
+   },
+   "page_protect_pdf": {
+      "message": "PDF 보호"
+   },
+   "page_rateus": {
+      "message": "⭑우리를 평가"
+   },
+   "page_remove_pdf": {
+      "message": "페이지 제거"
+   },
+   "page_save_as_pdf": {
+      "message": "PDF로 저장"
+   },
+   "page_sign_pdf": {
+      "message": "서명 PDF"
+   },
+   "page_split_pdf": {
+      "message": "PDF 분할"
+   },
+   "page_time_hint": {
+      "message": "문서 보존 시간"
+   },
+   "page_time_hours": {
+      "message": "시간"
+   },
+   "page_time_minutes": {
+      "message": "분"
+   },
+   "page_time_seconds": {
+      "message": "초"
+   },
+   "page_unlock_pdf": {
+      "message": "PDF 잠금 해제"
+   },
+   "page_upload_desc": {
+      "message": "파일을 선택하거나 여기로 파일을 드래그하십시오"
+   },
+   "page_upload_progress_text": {
+      "message": "업로드 중..."
+   },
+   "page_watermark_pdf": {
+      "message": "양수표"
+   },
+   "page_word_online": {
+      "message": "Word Online"
+   },
+   "page_word_online_create": {
+      "message": "워드 온라인 만들기"
+   },
+   "page_word_online_editor": {
+      "message": "단어 편집"
+   },
+   "page_word_online_view": {
+      "message": "워드 온라인 보기"
+   },
+   "page_word_to_pdf": {
+      "message": "Word PDF로 변환"
+   },
+   "upload_err_msg": {
+      "message": "죄송합니다. 파일을 업로드하는 동안 오류가 발생했습니다. 나중에 다시 시도해 주세요."
+   },
+   "upload_file_too_big": {
+      "message": "파일이 너무 큽니다"
+   },
+   "upload_file_too_big_msg": {
+      "message": "파일이 너무 큽니다({{filesize}} MiB). 최대 파일 크기: {{maxFilesize}} MiB."
+   }
+}

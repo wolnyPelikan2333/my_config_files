@@ -1,0 +1,52 @@
+{
+   "background": {
+      "scripts": [ "scripts/vendors_background_browser-popup_content-exchange_content-trello.js", "scripts/background_content-exchange_content-trello.js", "scripts/vendors_background_browser-popup_content-exchange.js", "scripts/vendors_background_content-exchange.js", "scripts/vendors_background_content-trello.js", "scripts/vendors_background.js", "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "icons/browser-icon-128.png",
+         "16": "icons/browser-icon-16.png",
+         "24": "icons/browser-icon-24.png",
+         "256": "icons/browser-icon-256.png",
+         "32": "icons/browser-icon-32.png",
+         "48": "icons/browser-icon-48.png",
+         "64": "icons/browser-icon-64.png"
+      },
+      "default_popup": "html/browser-popup.html",
+      "default_title": "__MSG_appName__"
+   },
+   "content_scripts": [ {
+      "exclude_matches": [ "https://trello.com/1/*" ],
+      "js": [ "scripts/vendors_background_browser-popup_content-exchange_content-trello.js", "scripts/background_content-exchange_content-trello.js", "scripts/browser-popup_content-exchange_content-trello.js", "scripts/content-exchange_content-trello-17d3aeea.js", "scripts/content-exchange_content-trello-d17f5adc.js", "scripts/content-exchange_content-trello-87bcf874.js", "scripts/content-exchange_content-trello-76f2ed34.js", "scripts/content-exchange_content-trello-49d0a293.js", "scripts/content-exchange_content-trello-059be3de.js", "scripts/content-exchange_content-trello-31416f9e.js", "scripts/vendors_browser-popup_content-trello.js", "scripts/vendors_background_content-trello.js", "scripts/vendors_content-trello-cdd60c62.js", "scripts/vendors_content-trello-536eaa00.js", "scripts/vendors_content-trello-0bc0478e.js", "scripts/vendors_content-trello-3434dd76.js", "scripts/vendors_content-trello-b69f3b00.js", "scripts/vendors_content-trello-d545515a.js", "scripts/vendors_content-trello-5a94f17d.js", "scripts/vendors_content-trello-27545368.js", "scripts/vendors_content-trello-229eafb5.js", "scripts/vendors_content-trello-2c4f37c6.js", "scripts/html-styles_content-trello-fa35fe0f.js", "scripts/html-styles_content-trello-d85b8b21.js", "scripts/html-styles_content-trello-28f252f4.js", "scripts/content-trello-7413f8ad.js", "scripts/content-trello-d1ea7314.js", "scripts/content-trello-7f8880f2.js", "scripts/content-trello-c158c3f1.js", "scripts/content-trello-e0d5bfae.js", "scripts/content-trello-2fc96694.js", "scripts/content-trello-bf51862e.js", "scripts/content-trello-dcab6fb1.js", "scripts/content-trello-2225a2c2.js", "scripts/content-trello-bde52cb3.js" ],
+      "matches": [ "https://trello.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "scripts/vendors_background_browser-popup_content-exchange_content-trello.js", "scripts/background_content-exchange_content-trello.js", "scripts/browser-popup_content-exchange_content-trello.js", "scripts/vendors_background_browser-popup_content-exchange.js", "scripts/content-exchange_content-trello-17d3aeea.js", "scripts/content-exchange_content-trello-d17f5adc.js", "scripts/content-exchange_content-trello-87bcf874.js", "scripts/content-exchange_content-trello-76f2ed34.js", "scripts/content-exchange_content-trello-49d0a293.js", "scripts/content-exchange_content-trello-059be3de.js", "scripts/content-exchange_content-trello-31416f9e.js", "scripts/vendors_background_content-exchange.js", "scripts/vendors_browser-popup_content-exchange.js", "scripts/vendors_content-exchange.js", "scripts/html-styles_content-exchange.js", "scripts/content-exchange.js" ],
+      "matches": [ "https://planyway.com/common/exchange.html*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' 'sha256-JLJVmzhPogPMQ/5k5Mhu6T0wn2VltzTvPYO80X1BcXU='; object-src 'self';",
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "externally_connectable": {
+      "matches": [ "https://planyway.com/*" ]
+   },
+   "icons": {
+      "128": "icons/browser-icon-128.png",
+      "16": "icons/browser-icon-16.png",
+      "24": "icons/browser-icon-24.png",
+      "256": "icons/browser-icon-256.png",
+      "32": "icons/browser-icon-32.png",
+      "48": "icons/browser-icon-48.png",
+      "64": "icons/browser-icon-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlBaUhMKVdPYj/2u4OTDJ5+kjd20bpGtJz8DgL1m9FlZyg7KGPusW/m8f2lijXgF4uOqRB9GirQDRsrBEh3j0VVM81e9AlWpslfdAcQOJUoZO8hq4uLefffQq81WqXNg0xZ9HfYqEVjXm9eDO56QKC9Qah78yIqrcUsZe643PJvXWmfjX5LSIs2VJQlx88typjVvHp/JNE8Yq1TJRgs2oq07/DwfV4dws6D+noXB5/3M+jCcT2DrQOSHDd0TADT50KX6/wFrcaoSutXBKf4n4hYQ9o29zhjvOtZiDR08J1Tn1SadwEED6Vk1ICWMcfneDNRB5rz7Wv3hwhPdbQCcrZQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "\u003Call_urls>" ],
+   "short_name": "Planyway for Trello",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.2.2.3",
+   "web_accessible_resources": [ "images/*", "videos/*" ]
+}

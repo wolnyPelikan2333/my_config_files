@@ -1,0 +1,20 @@
+2023/10/30-17:20:42.978 77c Reusing MANIFEST /home/michal/.config/google-chrome/Default/Local Extension Settings/dacdinoicboceafielngnmjjplncljhj/MANIFEST-000001
+2023/10/30-17:20:42.978 77c Recovering log #261
+2023/10/30-17:20:42.987 77c Reusing old log /home/michal/.config/google-chrome/Default/Local Extension Settings/dacdinoicboceafielngnmjjplncljhj/000261.log 
+2023/10/30-17:23:32.700 77d Level-0 table #266: started
+2023/10/30-17:23:32.717 77d Level-0 table #266: 1302808 bytes OK
+2023/10/30-17:23:32.719 77d Delete type=0 #261
+2023/10/30-17:33:04.427 780 Level-0 table #268: started
+2023/10/30-17:33:04.441 780 Level-0 table #268: 1302621 bytes OK
+2023/10/30-17:33:04.443 780 Delete type=0 #265
+2023/10/30-17:52:49.399 77d Level-0 table #270: started
+2023/10/30-17:52:49.414 77d Level-0 table #270: 1302621 bytes OK
+2023/10/30-17:52:49.416 77d Delete type=0 #267
+2023/10/30-17:52:49.588 77d Compacting 3@0 + 1@1 files
+2023/10/30-17:52:49.611 77d Generated table #271@0: 6 keys, 573097 bytes
+2023/10/30-17:52:49.611 77d Compacted 3@0 + 1@1 files => 573097 bytes
+2023/10/30-17:52:49.613 77d compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/30-17:52:49.613 77d Delete type=2 #263
+2023/10/30-17:52:49.613 77d Delete type=2 #266
+2023/10/30-17:52:49.613 77d Delete type=2 #268
+2023/10/30-17:52:49.613 77d Delete type=2 #270

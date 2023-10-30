@@ -1,0 +1,7 @@
+.main-box {
+    width: 670px;
+}
+
+.items-box, .office-box {
+    padding-left: 6px;
+}

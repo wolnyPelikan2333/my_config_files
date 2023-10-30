@@ -1,0 +1,21 @@
+{
+   "action": {
+      "default_icon": "icon128.png",
+      "default_title": "Chrome Piano"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "Play the piano in your browser",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "32": "icon32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu3VC+TQelbx+/prfYvn19DLCEGvMBRxOHVHT+qpdOrV9jqgE4JFcHHwcW5MUr8YcYvQNd5oGeWSlk5oHg0UWzelo3LZT6gfJyO5g8ddyBPVCQcrVi2Xf3oCfy6JxzbGOdcj9Ko6+gGg6twfkuvvT42ltM2r9elZTjCtmEK1F2jeSzzl/mUXjiatpb8eAbu7Ub5wQV6krbk/DulnuGmyIL9kZ+JUCU/90RbNEcWr2csa3sGu9JPTFS8+yk/chN1578mWKI3DP+O7bj3YSGCgaJxjGb7IL4E8I1hHvrckVLy6e79I3toup1mVF1MuwbZD/jl3tbDr0M0baovlkIqiacQIDAQAB",
+   "manifest_version": 3,
+   "name": "Chrome Piano",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.3"
+}

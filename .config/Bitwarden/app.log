@@ -1,0 +1,39 @@
+[2023-10-29 23:17:29.295] [info]  Error: No password found
+[2023-10-29 23:17:29.340] [info]  Error: No password found
+[2023-10-29 23:17:29.346] [info]  Error: No password found
+[2023-10-29 23:17:29.347] [info]  Error: No password found
+[2023-10-29 23:17:29.362] [info]  Error: No password found
+[2023-10-29 23:17:29.363] [info]  Error: No password found
+[2023-10-29 23:17:29.375] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47252:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47160:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:47156:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:47250:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47434:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47311:71
+    at new Promise (<anonymous>)
+[2023-10-29 23:17:29.376] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47252:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47160:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:47156:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:47250:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47434:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47311:71
+    at new Promise (<anonymous>)
+[2023-10-29 23:17:43.614] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:46720:36)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:46494:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/usr/lib/bitwarden/app.asar/main.js:46490:12)
+    at WindowMain.updateWindowState (/usr/lib/bitwarden/app.asar/main.js:46715:16)
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:46649:28)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:46494:71
+    at new Promise (<anonymous>)

@@ -1,0 +1,665 @@
+{
+   "avastAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Pronađite najbolje cijene, ponude i kupone za popuste tijekom kupnje putem interneta uz usporedbu cijena i kupone koje omogućuje Avast."
+   },
+   "avastAppLongName": {
+      "message": "Avast SafePrice | Usporedba cijena, posebne ponude i kuponi na sigurnim web-mjestima za kupnju – štedite novac"
+   },
+   "avastAppName": {
+      "message": "Avast SafePrice"
+   },
+   "avastAppShortName": {
+      "message": "Avast SafePrice | Usporedba, posebne ponude, kuponi"
+   },
+   "avgAppDesc": {
+      "description": "max 132 chars are allowed for this message",
+      "message": "Pronađite najbolje cijene, ponude i kupone za popuste tijekom kupnje putem interneta uz usporedbu cijena i kupone koje omogućuje AVG."
+   },
+   "avgAppLongName": {
+      "message": "AVG SafePrice | Usporedba cijena, posebne ponude i kuponi na sigurnim web-mjestima za kupnju – štedite novac"
+   },
+   "avgAppName": {
+      "message": "AVG SafePrice"
+   },
+   "avgAppShortName": {
+      "message": "AVG SafePrice | Usporedba, posebne ponude, kuponi"
+   },
+   "safePriceAskMeLater": {
+      "description": "It is showed to the user on the rating screen in order to offer it to rate extension later",
+      "message": "Pitaj me kasnije"
+   },
+   "safePriceEnjoyQuestion_AVG": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Uživate li koristiti \u003Cbr> AVG SafePrice?"
+   },
+   "safePriceEnjoyQuestion_Avast": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Uživate li koristiti \u003Cbr> Avast SafePrice?"
+   },
+   "safePriceLeaveRating": {
+      "description": "It is showed to offer the user the chance of rating our shopping extension",
+      "message": "Ostavite nam ocjenu da biste pokazali koliko vam se sviđa."
+   },
+   "sasAnswerNo": {
+      "message": "ne"
+   },
+   "sasAnswerYes": {
+      "message": "da"
+   },
+   "sasCouponAppliedOnPage": {
+      "message": "Kupon je primijenjen na ovoj stranici"
+   },
+   "sasCouponCodeCopied": {
+      "message": "Kod je kopiran u međuspremnik."
+   },
+   "sasGladYouLike": {
+      "message": "Drago nam je da vam se sviđa!"
+   },
+   "sasHintSettings": {
+      "message": "Postavke"
+   },
+   "sasOpenShop": {
+      "message": "Otvori trgovinu"
+   },
+   "sasRate": {
+      "message": "Ocijenite sada"
+   },
+   "sasSorry": {
+      "message": "Žao nam je što to čujemo"
+   },
+   "save": {
+      "message": "Ušteda"
+   },
+   "spAdditionalFees": {
+      "message": "Možda će se primjenjivati dodatne naknade i porezi"
+   },
+   "spAfterCloseTooltip": {
+      "description": "Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "Ponude i kupone dodatka SafePrice uvijek možete pronaći klikom na ikonu na alatnoj traci."
+   },
+   "spAfterCloseTooltipGotIt": {
+      "description": "Confirm message showed on Small tooltips showed to the user after closing UI in order to remain users how to get UI back.",
+      "message": "SHVAĆAM!"
+   },
+   "spApply": {
+      "message": "Primijeni kupon"
+   },
+   "spAsbCouponsFound": {
+      "message": "Na ovom web-mjestu pronaći ćete kupone!"
+   },
+   "spAsbOffersFound": {
+      "message": "Ima drugih ponuda!"
+   },
+   "spAvailableCoupons": {
+      "message": "Dostupni kuponi"
+   },
+   "spAvailableHotels": {
+      "message": "Dostupni hoteli"
+   },
+   "spAvailableOffers": {
+      "message": "Dostupne ponude"
+   },
+   "spAvailableOthers": {
+      "message": "Posebna ponuda"
+   },
+   "spBetterOfferLowerPricesNotificationMessage": {
+      "message": "već od"
+   },
+   "spBetterOffersNotificationBarMessage": {
+      "message": "Pogledajte! Još ponuda"
+   },
+   "spBetterOffersNotificationMessage": {
+      "message": "Pogledajte!\u003Cbr> Još ponuda"
+   },
+   "spBetterSpecialDealsNotificationBarMessage": {
+      "message": "Više posebnih ponuda, veće uštede!"
+   },
+   "spBetterSpecialDealsNotificationMessage": {
+      "message": "Više posebnih ponuda,\u003Cbr> veće uštede!"
+   },
+   "spCityHotelNotificationMessage": {
+      "message": "Popularni hoteli:"
+   },
+   "spClickThenPaste": {
+      "message": "Kliknite, a zatim zalijepite prilikom završetka kupnje:"
+   },
+   "spClickThenPasteSearchResult": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "Kliknite, a zatim zalijepite prilikom završetka kupnje na web-mjestu \u003Cspan class='asp-shopname-span'>%s\u003C/span>:"
+   },
+   "spCloseTooltip": {
+      "message": "Zatvori"
+   },
+   "spCodeCopied": {
+      "message": "kopirano"
+   },
+   "spConnectionNotSecure": {
+      "message": "Ova veza nije sigurna"
+   },
+   "spConnectionNotSecureHover": {
+      "message": "Ovo web-mjesto nema valjani https certifikat, pa ne može u potpunosti zaštititi vašu privatnost."
+   },
+   "spConnectionSecure": {
+      "message": "Ova je veza sigurna"
+   },
+   "spCopyAtCheckOut": {
+      "message": "Kopirajte i zalijepite prilikom završetka kupnje:"
+   },
+   "spCouponApplied": {
+      "message": "Kupon je primijenjen."
+   },
+   "spCouponCodeWorks": {
+      "message": "Jeste li uspjeli primijeniti kod?"
+   },
+   "spCouponWorks": {
+      "message": "Jeste li uspjeli primijeniti kupon?"
+   },
+   "spCouponsAvailableText": {
+      "message": "Dostupno"
+   },
+   "spCouponsExpiration": {
+      "message": "Istječe: "
+   },
+   "spCouponsNotificationMessage": {
+      "message": "Štedite novac pomoću kupona"
+   },
+   "spCouponsNotificationSaveTextMessage": {
+      "message": "Uštedite i do"
+   },
+   "spCouponsSearchIconHover": {
+      "message": "Potražite kupone"
+   },
+   "spCouponsSearchInput": {
+      "message": "Pretraživanje robnih marki ili mrežnih trgovina"
+   },
+   "spCouponsSelected": {
+      "message": "Odabrano kupona: "
+   },
+   "spCouponsSelectedText": {
+      "message": "Odabrano"
+   },
+   "spCouponsTab": {
+      "message": "Kuponi"
+   },
+   "spEShopName": {
+      "message": "Naziv e-trgovine*"
+   },
+   "spFeedback": {
+      "message": "Povratne informacije"
+   },
+   "spFeedbackGeneral": {
+      "message": "Općenite povratne informacije"
+   },
+   "spFeedbackGeneralDesc": {
+      "message": "Podijelite s nama svoje iskustvo korištenja dodatka SafePrice: recite nam što vam se svidjelo, a što bismo mogli poboljšati."
+   },
+   "spFeedbackLinkToProductPage": {
+      "message": "Veza na stranicu proizvoda"
+   },
+   "spFeedbackNext": {
+      "message": "dalje"
+   },
+   "spFeedbackOnlineStoreName": {
+      "message": "Naziv mrežne trgovine*"
+   },
+   "spFeedbackOther": {
+      "message": "Ostalo"
+   },
+   "spFeedbackPaidAndNotGet": {
+      "message": "Platio sam proizvod, a nisam ga dobio."
+   },
+   "spFeedbackProblem": {
+      "message": "U čemu je bio problem?  \u003Cspan class='asp-required-span'>(obavezno)\u003C/span>"
+   },
+   "spFeedbackProductOrdered": {
+      "message": "Naručeni proizvod"
+   },
+   "spFeedbackReportOnlineStore": {
+      "message": "Prijavite mrežnu trgovinu"
+   },
+   "spFeedbackReportOnlineStoreDesc": {
+      "message": "Obavijestite nas o nepouzdanim ili lažnim web-mjestima koja bi mogla biti opasna za druge."
+   },
+   "spFeedbackRetailerMerchant": {
+      "message": "Prodavač"
+   },
+   "spFeedbackSPExp": {
+      "message": "Podijelite s nama svoje iskustvo korištenja dodatka SafePrice:"
+   },
+   "spFeedbackSend": {
+      "message": "pošalji"
+   },
+   "spFeedbackShare": {
+      "message": "Pošaljite svoje povratne informacije"
+   },
+   "spFeedbackSomethingDifferent": {
+      "message": "Artikl koji sam dobio razlikovao se od naručenog."
+   },
+   "spFeedbackThanks": {
+      "message": "Hvala vam na povratnim informacijama!"
+   },
+   "spFeedbackWhatWasTheProblem": {
+      "message": "Ukratko opišite što je bio problem."
+   },
+   "spFeedbackWhichOnlineStoreReporting": {
+      "message": "Koju mrežnu trgovinu prijavljujete? \u003Cspan class='asp-required-span'>(*obavezno)\u003C/span>"
+   },
+   "spFeedbackWriteAComment": {
+      "message": "Napišite komentar"
+   },
+   "spFeedbackback": {
+      "message": "natrag"
+   },
+   "spGetCouponCode": {
+      "message": "Preuzmi kod"
+   },
+   "spGreatDeal": {
+      "message": "Sjajna ponuda"
+   },
+   "spHelpTooltip": {
+      "message": "Pomoć"
+   },
+   "spITrustThisSite": {
+      "message": "Smatram ovo web-mjesto pouzdanim"
+   },
+   "spLeaveSite": {
+      "message": "napusti web-mjesto"
+   },
+   "spLinkToProductPage": {
+      "message": "Veza na stranicu proizvoda"
+   },
+   "spLoadingNotificationDescriptionMessage": {
+      "message": "Vjerujte nam, isplati se pričekati."
+   },
+   "spLoadingNotificationMessage": {
+      "message": "Traženje posebnih ponuda..."
+   },
+   "spMinimizeTooltip": {
+      "message": "Minimiziraj"
+   },
+   "spMoreOffersFound": {
+      "message": "Pronađeno je više ponuda: "
+   },
+   "spNoResultsFound": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "Nije pronađen nijedan rezultat za \u003Cbr> %s"
+   },
+   "spNoResultsFoundCoupons": {
+      "description": "%s is the domain where we couldn't find coupons or can be also, what the user wrote on our seach input",
+      "message": "Nije pronađen nijedan kupon za \u003Cbr>%s"
+   },
+   "spNoResultsFoundCouponsNow": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "Trenutno nije pronađen nijedan kupon"
+   },
+   "spNoResultsFoundOffers": {
+      "description": "%s is the domain where we couldn't find offer",
+      "message": "Trenutno nije pronađena nijedna ponuda"
+   },
+   "spNoResultsFoundOffersBasedOnQuery": {
+      "description": "%s is the title of the product for which we couldn't find offers or can be also, what the user wrote on our seach input",
+      "message": "Nije pronađena nijedna ponuda za \u003Cbr>%s"
+   },
+   "spNoresultsFoundForOthers": {
+      "message": "Trenutno nije pronađena nijedna \u003Cbr> posebna ponuda"
+   },
+   "spNothingFound": {
+      "message": "O, ne!\u003Cbr>Ništa nismo pronašli…"
+   },
+   "spNothingFoundCoupons": {
+      "message": "O, ne!\u003Cbr>Nismo pronašli nijedan kupon..."
+   },
+   "spNothingFoundOffers": {
+      "message": "O, ne!\u003Cbr>Nismo pronašli nijednu ponudu..."
+   },
+   "spNothingFoundOthers": {
+      "message": "O, ne!\u003Cbr>Nismo pronašli nijednu posebnu ponudu..."
+   },
+   "spNotificationRedirectShowLessMessage": {
+      "message": "Manje"
+   },
+   "spNotificationRedirectShowMoreMessage": {
+      "message": "Više"
+   },
+   "spNotificationRedirectShowRedirectMessage": {
+      "message": "POKAŽI PONUDU"
+   },
+   "spOffersAndCouponsNotificationMessage": {
+      "message": "Pronađene su ponude i kuponi. Imate sreće!"
+   },
+   "spOffersTab": {
+      "message": "Ponude"
+   },
+   "spOnboardingSearchCoupons": {
+      "message": "Ovdje počnite tražiti kupone"
+   },
+   "spOnboardingSearchOffers": {
+      "message": "Ovdje počnite tražiti ponude"
+   },
+   "spOnboardingSettingsButton": {
+      "message": "u redu"
+   },
+   "spOnboardingSettingsMsg": {
+      "message": "Postavite koliko često želite vidjeti ponude i kupone"
+   },
+   "spOptInPolice": {
+      "message": "SafePrice će pregledavati web-mjesta koja posjetite da bi vam mogao pronaći povoljnije ponude i bonove za popust u provjerenim e-trgovinama. Za tu funkciju mora slati sljedeće podatke na svoje poslužiteje:"
+   },
+   "spOptInPolice1": {
+      "message": "Domena ili URL web-mjesta za kupovinu"
+   },
+   "spOptInPolice2": {
+      "message": "Identifikatori proširenja (GUID)"
+   },
+   "spOptInPolice3": {
+      "message": "Jezik preglednika"
+   },
+   "spOptInPoliceAccept": {
+      "message": "Da, šalji podatke"
+   },
+   "spOptInPoliceAcceptB": {
+      "message": "Da, omogući"
+   },
+   "spOptInPoliceBAVG": {
+      "message": "AVG SafePrice pregledavat će web-mjesta koja posjetite da bi vam mogao pronaći povoljnije ponude i bonove za popust u provjerenim e-trgovinama. Za tu funkciju mora slati sljedeće podatke na svoje poslužitelje:"
+   },
+   "spOptInPoliceBAvast": {
+      "message": "Avast SafePrice pregledavat će web-mjesta koja posjetite da bi vam mogao pronaći povoljnije ponude i bonove za popust u provjerenim e-trgovinama. Za tu funkciju mora slati sljedeće podatke na svoje poslužitelje:"
+   },
+   "spOptInPoliceDeny": {
+      "message": "Ne, hvala"
+   },
+   "spOptInPoliceLink": {
+      "message": "Sve pojedinosti potražite u \u003Ca href='#' class='opt-in-box-buttons-policy'>pravilniku o zaštiti privatnosti proširenja\u003C/a>."
+   },
+   "spOptInSecondClose": {
+      "message": "Zatvori"
+   },
+   "spOptInSecondReviewConsent": {
+      "message": "Ponovno zatraži pristanak"
+   },
+   "spOptInSecondText": {
+      "message": "Bez njega proširenje neće funkcionirati. Možete ga deinstalirati."
+   },
+   "spOptInSecondTitle": {
+      "message": "Nažalost, SafePrice vam ne može prikazivati povoljnije ponude bez vašeg pristanka"
+   },
+   "spOptInSecondTitleBAVG": {
+      "message": "Nažalost, AVG SafePrice ne može vam prikazivati povoljnije ponude bez vašeg pristanka"
+   },
+   "spOptInSecondTitleBAvast": {
+      "message": "Nažalost, Avast SafePrice ne može vam prikazivati povoljnije ponude bez vašeg pristanka"
+   },
+   "spOptInTitle": {
+      "message": "Ako ste suglasni, SafePrice će vam prikazivati povoljnije ponude dok budete kupovali putem interneta"
+   },
+   "spOptInTitleBAVG": {
+      "message": "\u003Cspan class='asp-title-span'>Ako ste suglasni, SafePrice\u003C/span> \u003Cbr> će vam prikazivati povoljnije ponude i kupone dok budete kupovali putem interneta"
+   },
+   "spOptInTitleBAvast": {
+      "message": "\u003Cspan class='asp-title-span'>Ako ste suglasni, SafePrice\u003C/span> \u003Cbr> će vam prikazivati povoljnije ponude i kupone dok budete kupovali putem interneta"
+   },
+   "spOther": {
+      "message": "Ostalo"
+   },
+   "spOthersTab": {
+      "message": "Ostalo"
+   },
+   "spPhishingSite": {
+      "message": "Ovo je web-mjesto označeno kao web-mjesto za krađu identiteta"
+   },
+   "spPhishingSiteDesc": {
+      "message": "Krađa identiteta pokušaj je pribavljanja povjerljivih podataka, kao što su korisnička imena, lozinke i podaci o kreditnim karticama."
+   },
+   "spProductOrdered": {
+      "message": "Naručeni proizvod"
+   },
+   "spProductsSearchIconHover": {
+      "message": "Potražite proizvod"
+   },
+   "spProductsSearchInput": {
+      "message": "Pretraživanje proizvoda"
+   },
+   "spRateCouponsThanks": {
+      "message": "Hvala vam."
+   },
+   "spRecommend": {
+      "message": "preporuka"
+   },
+   "spRecommendESHop": {
+      "message": "Preporučite e-trgovinu"
+   },
+   "spRecommendExcellentSelectionOfProducts": {
+      "message": "Imaju izvrstan izbor proizvoda."
+   },
+   "spRecommendGreatCcustomerService": {
+      "message": "Imaju sjajnu korisničku podršku."
+   },
+   "spRecommendGreatValue": {
+      "message": "Nude sjajnu vrijednost za novac."
+   },
+   "spRecommendWhy": {
+      "message": "Zašto preporučujete tu e-trgovinu?*"
+   },
+   "spReport": {
+      "message": "prijava"
+   },
+   "spReportESHop": {
+      "message": "Prijavite e-trgovinu"
+   },
+   "spReportGetSomethingDifferent": {
+      "message": "Artikl koji sam dobio razlikovao se od naručenog."
+   },
+   "spReportPaidAndNotGet": {
+      "message": "Platio sam proizvod, a nisam ga dobio."
+   },
+   "spReportTreatedMePoorly": {
+      "message": "Loše su se ponijeli prema meni kao korisniku."
+   },
+   "spReportWhy": {
+      "message": "Zašto prijavljujete tu e-trgovinu?*"
+   },
+   "spRequired": {
+      "message": "*obavezno"
+   },
+   "spSearchCouponAppliedOnPage": {
+      "description": "%s is the name of the domain where coupon was applied",
+      "message": "Kupon je primijenjen na web-mjestu \u003Cspan class='asp-shopname-span'>%s\u003C/span>."
+   },
+   "spSearchForCoupons": {
+      "message": "Da biste pronašli kupone, potražite \u003Cbr> robnu marku ili mrežnu trgovinu"
+   },
+   "spSearchForOffers": {
+      "message": "Da biste pronašli ponude, potražite \u003Cbr> proizvod"
+   },
+   "spSearchInAmazon": {
+      "description": "%s is the name of the domain. Ex: amazon",
+      "message": "potražite na servisu %s"
+   },
+   "spSelectedCoupons": {
+      "message": "Odabrani kuponi"
+   },
+   "spSettingsPageCancel": {
+      "message": "Odustani"
+   },
+   "spSettingsPageCustomList": {
+      "message": "Prilagođeni popis"
+   },
+   "spSettingsPageCustomListItemAdd": {
+      "message": "Dodaj"
+   },
+   "spSettingsPageCustomListItemAddSite": {
+      "message": "Dodaj web-mjesto"
+   },
+   "spSettingsPageCustomListTitle": {
+      "message": "Ne prikazuj obavijesti na sljedećim web-mjestima:"
+   },
+   "spSettingsPageCustomListTitleDesc": {
+      "message": "(ponude i kupone i dalje možete vidjeti klikom na ikonu na alatnoj traci)"
+   },
+   "spSettingsPageHelp": {
+      "message": "Pomoć"
+   },
+   "spSettingsPageHelpCouponsTitle": {
+      "message": "3. Kuponi"
+   },
+   "spSettingsPageHelpCouponsTitleDesc": {
+      "message": "Da biste upotrijebili kupon, morate ga samo kliknuti. Ako se prikaže kod, morate ga zalijepiti u odgovarajuće polje prilikom dovršetka kupnje. Inače će se kod automatski primijeniti."
+   },
+   "spSettingsPageHelpFAQsTitle": {
+      "message": "Saznajte više u \u003Cspan class='asp-faqs-span'>najčešćim pitanjima\u003C/span>."
+   },
+   "spSettingsPageHelpNotificationsTitle": {
+      "message": "1. Obavijesti"
+   },
+   "spSettingsPageHelpNotificationsTitleDesc": {
+      "message": "Kada SafePrice pronađe ponudu ili kupon povezane s vašim pretraživanjem, iskočit će obavijest. Da biste saznali što smo pronašli, kliknite veliki zeleni gumb."
+   },
+   "spSettingsPageHelpOffersTitle": {
+      "message": "2. Ponude"
+   },
+   "spSettingsPageHelpOffersTitleDesc": {
+      "message": "Klikom na ponudu otvorit će vam se pouzdana mrežna trgovina partnera u kojoj ćete dobiti novu cijenu navedenu u obavijesti."
+   },
+   "spSettingsPageHelpOthersTitle": {
+      "message": "4. Ostalo"
+   },
+   "spSettingsPageHelpOthersTitleDesc": {
+      "message": "Klikom na navedenu posebnu ponudu otvorit će vam se pouzdana mrežna trgovina partnera."
+   },
+   "spSettingsPageSave": {
+      "message": "Spremi"
+   },
+   "spSettingsPageTitleAvast": {
+      "message": "Postavke za Avast SafePrice"
+   },
+   "spSettingsPageTitleAvg": {
+      "message": "Postavke za AVG SafePrice"
+   },
+   "spSettingsPrivacy": {
+      "message": "Zaštita privatnosti"
+   },
+   "spSettingsPrivacyNotice": {
+      "message": "Omogući analizu performansi proizvoda i korištenja podataka za razvoj novog proizvoda"
+   },
+   "spSettingsTabNotificationAccommodationsTitle": {
+      "message": "Ponude za smještaj"
+   },
+   "spSettingsTabNotifications": {
+      "message": "Obavijesti"
+   },
+   "spSettingsTabNotificationsAccommodationsPopular": {
+      "message": "Pokaži popularne hotele na zatraženom području"
+   },
+   "spSettingsTabNotificationsAccommodationsShowBetter": {
+      "message": "Pokaži kada je dostupna bolja cijena hotela"
+   },
+   "spSettingsTabNotificationsAccommodationsSimilar": {
+      "message": "Pokaži alternativne hotele"
+   },
+   "spSettingsTabNotificationsCoupons": {
+      "message": "Kuponi"
+   },
+   "spSettingsTabNotificationsCouponsHide": {
+      "message": "Nemoj me obavještavati o kuponima"
+   },
+   "spSettingsTabNotificationsCouponsHideDesc": {
+      "message": "(kupone uvijek možete vidjeti ako kliknete ikonu na alatnoj traci)"
+   },
+   "spSettingsTabNotificationsCouponsShowAll": {
+      "message": "Uvijek pokaži dostupne kupone"
+   },
+   "spSettingsTabNotificationsCouponsShowOnce": {
+      "message": "Pokaži samo jedanput na svakom web-mjestu"
+   },
+   "spSettingsTabNotificationsOffers": {
+      "message": "Ponude"
+   },
+   "spSettingsTabNotificationsOffersBetter": {
+      "message": "Pokaži samo kada su u e-trgovini dostupne ponude koje su povoljnije od originalnih"
+   },
+   "spSettingsTabNotificationsOffersHideAll": {
+      "message": "Nemoj me obavještavati o ponudama u e-trgovini"
+   },
+   "spSettingsTabNotificationsOffersHideAllDesc": {
+      "message": "(ponude uvijek možete vidjeti ako kliknete ikonu na alatnoj traci)"
+   },
+   "spSettingsTabNotificationsOffersShowAll": {
+      "message": "Pokaži uvijek kada su dostupne ponude u e-trgovini"
+   },
+   "spSettingsTabNotificationsOffersTitle": {
+      "message": "Ponude u e-trgovinama"
+   },
+   "spSettingsTabNotificationsOthers": {
+      "message": "Ostalo"
+   },
+   "spSettingsTabNotificationsOthersDesc": {
+      "message": "Obavještavaj me o posebnim ponudama iz drugih kategorija (prijevoz, financije, opskrba strujom i ostalo)"
+   },
+   "spSettingsTabNotificationsOthersTitle": {
+      "message": "Posebne ponude"
+   },
+   "spSettingsTooltip": {
+      "message": "Postavke"
+   },
+   "spShippingLabel": {
+      "message": "Dostava iz"
+   },
+   "spShowAll": {
+      "message": "POKAŽI SVE"
+   },
+   "spShowNotificationMessage": {
+      "message": "POKAŽI"
+   },
+   "spShowNotificationRedirectMessage": {
+      "message": "Pogledajte što smo pronašli!"
+   },
+   "spSimilarHotelsMessage": {
+      "message": "Alternativni hoteli"
+   },
+   "spSimilarHotelsNotificationMessage": {
+      "message": "Pronađeni su alternativni hoteli!"
+   },
+   "spSiteNotVerified": {
+      "message": "Ovo web-mjesto nije sigurno za kupnju"
+   },
+   "spSiteNotVerifiedHover": {
+      "message": "Ovo je web-mjesto identificirano kao nepouzdano. Svaka ponuda koju pronađemo potječe sa sigurnog web-mjesta, pa predlažemo da kliknete neku od gornjih ponuda ili pokušate na nekom drugom mjestu."
+   },
+   "spSiteUntrustworthy": {
+      "message": "Ovo je web-mjesto identificirano kao nepouzdano"
+   },
+   "spSiteUntrustworthyDesc": {
+      "message": "Predlažemo da kupnju nastavite negdje drugdje, jer su korisnici ovo web-mjesto ocijenili lošim ocjenama."
+   },
+   "spSiteVerified": {
+      "message": "Ovo je web-mjesto provjereno i sigurno za kupnju"
+   },
+   "spSocialShare": {
+      "description": "It is showed up to users in order to make them share SafePrice on Social Networks",
+      "message": "Uživate u uštedama? Proširite vijest!"
+   },
+   "spSocialShareFb": {
+      "description": "It is showed up to users in order to make them share SafePrice on Facebook",
+      "message": "Podijeli"
+   },
+   "spSocialSharetttr": {
+      "description": "It is showed up to users in order to make them share SafePrice on Twitter",
+      "message": "Objavi tweet"
+   },
+   "spTellUsMore": {
+      "message": "Recite nam više"
+   },
+   "spThanksForVoting": {
+      "message": "Hvala što pridonosite poboljšanju dodatka SafePrice"
+   },
+   "spTrySearchDeals": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "Pokušajte potražiti ponude za %s"
+   },
+   "spTrySearchInAmazon": {
+      "description": "%s is the domain. Ex: Amazon.com",
+      "message": "Pokušajte s pretraživanjem na servisu %s"
+   }
+}

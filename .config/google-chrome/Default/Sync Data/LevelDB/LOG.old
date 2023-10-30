@@ -1,0 +1,42 @@
+2023/10/30-09:02:28.224 ad0 Reusing MANIFEST /home/michal/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/10/30-09:02:28.225 ad0 Recovering log #122
+2023/10/30-09:02:28.230 ad0 Reusing old log /home/michal/.config/google-chrome/Default/Sync Data/LevelDB/000122.log 
+2023/10/30-09:02:28.397 aad Level-0 table #126: started
+2023/10/30-09:02:28.399 aad Level-0 table #126: 95688 bytes OK
+2023/10/30-09:02:28.402 aad Delete type=0 #122
+2023/10/30-09:58:29.100 aae Level-0 table #128: started
+2023/10/30-09:58:29.103 aae Level-0 table #128: 93316 bytes OK
+2023/10/30-09:58:29.105 aae Delete type=0 #125
+2023/10/30-13:53:44.322 aae Level-0 table #130: started
+2023/10/30-13:53:44.324 aae Level-0 table #130: 95893 bytes OK
+2023/10/30-13:53:44.326 aae Delete type=0 #127
+2023/10/30-13:53:44.326 aae Compacting 4@0 + 1@1 files
+2023/10/30-13:53:44.329 aae Generated table #131@0: 134 keys, 24034 bytes
+2023/10/30-13:53:44.329 aae Compacted 4@0 + 1@1 files => 24034 bytes
+2023/10/30-13:53:44.331 aae compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/30-13:53:44.331 aae Delete type=2 #121
+2023/10/30-13:53:44.331 aae Delete type=2 #123
+2023/10/30-13:53:44.331 aae Delete type=2 #126
+2023/10/30-13:53:44.331 aae Delete type=2 #128
+2023/10/30-13:53:44.331 aae Delete type=2 #130
+2023/10/30-14:35:44.591 aad Level-0 table #133: started
+2023/10/30-14:35:44.598 aad Level-0 table #133: 136962 bytes OK
+2023/10/30-14:35:44.600 aad Delete type=0 #129
+2023/10/30-15:35:24.357 ab0 Level-0 table #135: started
+2023/10/30-15:35:24.359 ab0 Level-0 table #135: 111012 bytes OK
+2023/10/30-15:35:24.361 ab0 Delete type=0 #132
+2023/10/30-16:42:43.885 aae Level-0 table #137: started
+2023/10/30-16:42:43.887 aae Level-0 table #137: 99140 bytes OK
+2023/10/30-16:42:43.889 aae Delete type=0 #134
+2023/10/30-17:01:53.708 aae Level-0 table #139: started
+2023/10/30-17:01:53.714 aae Level-0 table #139: 100445 bytes OK
+2023/10/30-17:01:53.716 aae Delete type=0 #136
+2023/10/30-17:01:53.716 aae Compacting 4@0 + 1@1 files
+2023/10/30-17:01:53.720 aae Generated table #140@0: 137 keys, 26187 bytes
+2023/10/30-17:01:53.720 aae Compacted 4@0 + 1@1 files => 26187 bytes
+2023/10/30-17:01:53.727 aae compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/30-17:01:53.728 aae Delete type=2 #131
+2023/10/30-17:01:53.728 aae Delete type=2 #133
+2023/10/30-17:01:53.728 aae Delete type=2 #135
+2023/10/30-17:01:53.728 aae Delete type=2 #137
+2023/10/30-17:01:53.728 aae Delete type=2 #139

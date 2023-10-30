@@ -1,0 +1,17 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://ipp-google-grepo.innogames.de/?game=grepo&ref=ig_goows"
+      }
+   },
+   "default_locale": "de",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2onGtT9kzg/i1/gvSHGgRWugjvWOWHxRPQpTmHEKlyf/UTi8CVtGj5+qrVHJnnFxwlk5ilKZhwFaxnKpkDI4FoPJzp0AdO578BFfW2IkypgAZBvqWoSRW4oDqcBHdIws9sU89wJYF+ewX5XaixGAH3sOwWNOUFjxTPtSo5oNK2wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.11.15"
+}

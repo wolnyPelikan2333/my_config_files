@@ -1,0 +1,176 @@
+{
+   "conversion_complete": {
+      "message": "Umbau abgeschlossen."
+   },
+   "ext_description": {
+      "message": "Die Qwer PDF-Erweiterung ist Online PDF in Word & Excel, PPT & PDF Editor konvertieren - 100% kostenlos. Power Up Ihre Produktivität"
+   },
+   "ext_name": {
+      "message": "Qwer PDF"
+   },
+   "logo_title_text": {
+      "message": "online und 100% kostenlos"
+   },
+   "notifications_conversion_complete_title": {
+      "message": " Umbau abgeschlossen."
+   },
+   "notifications_conversion_failed_title": {
+      "message": "Konvertierungsfehler."
+   },
+   "notifications_conversion_msg": {
+      "message": "100% kostenloses Online-Konvertierungstool"
+   },
+   "page_compress_pdf": {
+      "message": "PDF Komprimieren"
+   },
+   "page_converting_hint": {
+      "message": "Schließen Sie Ihren Browser nicht Warten Sie, bis Ihre Dateien hochgeladen und verarbeitet wurden!\u003Cbr>Dies kann einige Minuten dauern. :)"
+   },
+   "page_converting_text": {
+      "message": "{{title}} wird konvertiert..."
+   },
+   "page_download_btn_text": {
+      "message": "Herunterladen"
+   },
+   "page_edit_pdf": {
+      "message": "PDF bearbeiten"
+   },
+   "page_excel_online": {
+      "message": "Excel Online"
+   },
+   "page_excel_online_create": {
+      "message": "Excel erstellen"
+   },
+   "page_excel_online_editor": {
+      "message": "Excel bearbeiten"
+   },
+   "page_excel_online_view": {
+      "message": "Excel Viewer"
+   },
+   "page_excel_to_pdf": {
+      "message": "Excel in PDF"
+   },
+   "page_html_to_pdf": {
+      "message": "HTML in PDF"
+   },
+   "page_jpg_to_pdf": {
+      "message": "JPG in PDF"
+   },
+   "page_login": {
+      "message": "Einloggen"
+   },
+   "page_merge_pdf": {
+      "message": "PDF zusammenfügen"
+   },
+   "page_online_office": {
+      "message": "ONLINE OFFICE"
+   },
+   "page_page_number": {
+      "message": "Seitennummer"
+   },
+   "page_pdf_convert": {
+      "message": "Konvertieren"
+   },
+   "page_pdf_to_excel": {
+      "message": "PDF in Excel"
+   },
+   "page_pdf_to_html": {
+      "message": "PDF in HTML"
+   },
+   "page_pdf_to_jpg": {
+      "message": "PDF in JPG"
+   },
+   "page_pdf_to_png": {
+      "message": "PDF in PNG"
+   },
+   "page_pdf_to_ppt": {
+      "message": "PDF in PPT"
+   },
+   "page_pdf_to_word": {
+      "message": "PDF in Word"
+   },
+   "page_png_to_pdf": {
+      "message": "PNG in PDF"
+   },
+   "page_powerpoint_viewer": {
+      "message": "PPT Viewer"
+   },
+   "page_ppt_online": {
+      "message": "PowerPoint Online"
+   },
+   "page_ppt_online_create": {
+      "message": "PPT erstellen"
+   },
+   "page_ppt_online_editor": {
+      "message": "PPT bearbeiten"
+   },
+   "page_ppt_to_pdf": {
+      "message": "PPT in PDF"
+   },
+   "page_protect_pdf": {
+      "message": "PDF schützen"
+   },
+   "page_rateus": {
+      "message": "⭑Bewerten Sie uns"
+   },
+   "page_remove_pdf": {
+      "message": "Seiten entfernen"
+   },
+   "page_save_as_pdf": {
+      "message": "Als PDF speichern"
+   },
+   "page_sign_pdf": {
+      "message": "PDF signieren"
+   },
+   "page_split_pdf": {
+      "message": "PDF teilen"
+   },
+   "page_time_hint": {
+      "message": "Aufbewahrungszeit für Dokumente"
+   },
+   "page_time_hours": {
+      "message": "Stunden"
+   },
+   "page_time_minutes": {
+      "message": "Minuten"
+   },
+   "page_time_seconds": {
+      "message": "Sekunden"
+   },
+   "page_unlock_pdf": {
+      "message": "PDF entsperren"
+   },
+   "page_upload_desc": {
+      "message": "Datei auswählen oder Datei hierher ziehen"
+   },
+   "page_upload_progress_text": {
+      "message": "Hochladen..."
+   },
+   "page_watermark_pdf": {
+      "message": "Wasserzeichen"
+   },
+   "page_word_online": {
+      "message": "Word Online"
+   },
+   "page_word_online_create": {
+      "message": "Word erstellen"
+   },
+   "page_word_online_editor": {
+      "message": "Word bearbeiten"
+   },
+   "page_word_online_view": {
+      "message": "Word Viewer"
+   },
+   "page_word_to_pdf": {
+      "message": "Word in PDF"
+   },
+   "upload_err_msg": {
+      "message": "Beim Hochladen der Datei ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut."
+   },
+   "upload_file_too_big": {
+      "message": "Datei ist zu groß"
+   },
+   "upload_file_too_big_msg": {
+      "message": "Datei ist zu groß ({{filesize}} MiB). Maximale Dateigröße: {{maxFilesize}} MiB."
+   }
+}

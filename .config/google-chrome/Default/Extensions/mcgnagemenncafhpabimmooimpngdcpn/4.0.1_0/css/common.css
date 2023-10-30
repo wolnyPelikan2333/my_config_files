@@ -1,0 +1,136 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-family: Helvetica, Arial, "Microsoft YaHei", sans-serif;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #333333;
+}
+.main-box{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    background-size: cover;
+    position: relative;
+    background-image: linear-gradient(127deg,#f7daf4,#ebebf5, #e8f6fe,#f7daf4);
+    border-radius: 10px;
+    /* max-width: 1450px; */
+    /* min-width: 935px; */
+    /* min-height: 665px; */
+    padding:4px 20px;
+    height: 100%;
+    min-width: 799px;
+    min-height: 499px;
+}
+.hide{
+    display: none !important;
+}
+/* header */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 20px;
+}
+.nav_right{
+    display: flex;
+    height: 27px;
+}
+.nav_right a{
+    margin: 0 10px;
+    border: 1px solid transparent;
+    background-color: #F2C00F;
+    padding: 3px;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #ffffff;
+    min-width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fullScreen{
+    cursor: pointer;
+}
+.nav_right .history{
+    background-color: #ffffff;
+    color: #333333;
+    border-color: #999999;
+    position: relative;
+}
+.history span {
+    right: -8px;
+    top: -4px;
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    background-color: #ff0000;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #d8d6d6;
+}
+.nav_right .login{
+    background-color: #3EB0AC;
+}
+
+.nav_right .userInfo{
+    width: 30px;
+    height: 30px;
+    background-color: #E9F5FE;
+    min-width: 30px;
+}
+.nav_right .userInfo img{
+    border-radius: 50%;
+}
+
+/* end header */
+
+/* main */
+.main_template{
+    box-shadow: 0 0 5px 1px rgb(0 0 0 / 10%);
+    background: rgba(254,254,254,.4);
+    margin: 12px auto 0px;
+    position: relative;
+    border-radius: 10px;
+    border: 1px solid #ffffff;
+    min-height: calc(80vh - 88px);
+}
+.go_back_index{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.title{
+    padding-top: 30px;
+    font-size: 16px;
+}
+.title h1{
+    margin-bottom: 0;
+}
+.title h2{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    min-height: 40px;
+}
+.title h2 a{
+    color: #B2B3B5;
+} 
+
+/* :end main */
+
+.convert_match{
+    min-width: 100%;
+}

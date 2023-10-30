@@ -1,0 +1,94 @@
+.convert_match header,.convert_match .item-h1,.convert_match .left_index{
+    display: none;
+}
+.convert_match{
+    position: relative;
+    min-height: 240px;
+    height: auto;
+    padding: 10px;
+    background-image: linear-gradient(127deg,#F8D8F3,#ECEFFC, #E9F2FA,#EBEBF5);
+}
+.convert_match .upload_content{
+    min-height: inherit;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.convert_match .upload-box{
+    border: none;
+    box-shadow: none;
+}
+.convert_match .convert-progress{
+    margin-top: 0;
+}
+
+.convert_match .upload-progress,.convert_match .convert-progress{
+    min-height: inherit;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 1px rgb(0 0 0 / 10%);
+    background: rgba(254,254,254,.4);
+    position: relative;
+    border-radius: 10px;
+    border: 1px solid #ffffff;
+}
+.convert_match .convert-progress .progress{
+    margin: 0px auto 0 !important;
+}
+.convert_match .convert-progress .text{
+    margin-top: 13px;
+}
+.convert_match #file-temp-top{
+    display: none;
+}
+.filebox{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+.file_img img{
+    width: 50px;
+    height: 50px;
+}
+.file_name{
+    font-size: 14px;
+    padding: 15px;
+}
+.download_btn a{
+    font-size: 16px;
+    min-height: 42px;
+    min-width: 230px;
+    padding: 0;
+    width: auto;
+    background-color: #3eb1ad;
+    box-shadow: 0 6px 1px 0 #16a19c;
+    display: block;
+    text-align: center;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    line-height: 42px;
+}
+.download_btn a svg{
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.convert_match .files-box{
+    margin: 26px auto;
+}
+.convert_file_match .logo,.convert_file_match .file-count,.convert_file_match .loginbtn,.convert_file_match .rateUs{
+    display: none;
+}
+.convert_buy_match header,.convert_buy_match .logo-title{
+    display: none;
+}
+.convert_buy_match .buy-box img{
+    width: auto;
+    max-height: 227px;
+}
+.actions .view,.actions .edit{
+    display: none !important;
+}

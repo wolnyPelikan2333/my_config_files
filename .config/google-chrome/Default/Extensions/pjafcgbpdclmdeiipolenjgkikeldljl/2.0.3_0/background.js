@@ -1,0 +1,1 @@
+(()=>{"use strict";chrome.runtime.onInstalled.addListener((function(){chrome.tabs.update(null,{url:"index.html"})})),chrome.action.onClicked.addListener((function(){chrome.tabs.update(null,{url:"index.html"})}))})();

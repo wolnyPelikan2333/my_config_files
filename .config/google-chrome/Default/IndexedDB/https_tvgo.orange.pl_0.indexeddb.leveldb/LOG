@@ -1,0 +1,6 @@
+2023/10/26-18:35:14.722 968 Creating DB /home/michal/.config/google-chrome/Default/IndexedDB/https_tvgo.orange.pl_0.indexeddb.leveldb since it was missing.
+2023/10/26-18:35:14.725 968 Reusing MANIFEST /home/michal/.config/google-chrome/Default/IndexedDB/https_tvgo.orange.pl_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/26-18:35:14.773 977 Level-0 table #5: started
+2023/10/26-18:35:14.774 977 Level-0 table #5: 676 bytes OK
+2023/10/26-18:35:14.777 977 Delete type=0 #3
+2023/10/26-18:35:14.777 977 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

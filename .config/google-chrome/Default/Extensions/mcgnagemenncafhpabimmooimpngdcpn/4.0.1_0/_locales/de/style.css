@@ -1,0 +1,12 @@
+.main-box {
+    width: 800px;
+    min-height: 525px;
+}
+
+.item {
+    width: 100px;
+    height: 85px;
+}
+.rateus {
+    right: 110px;
+}

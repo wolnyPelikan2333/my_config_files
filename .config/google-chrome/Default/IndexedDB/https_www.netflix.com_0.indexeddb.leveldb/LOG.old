@@ -1,0 +1,26 @@
+2023/10/27-18:53:38.445 539 Creating DB /home/michal/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb since it was missing.
+2023/10/27-18:53:38.448 539 Reusing MANIFEST /home/michal/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/27-19:16:25.500 539 Level-0 table #5: started
+2023/10/27-19:16:25.516 539 Level-0 table #5: 2686421 bytes OK
+2023/10/27-19:16:25.521 539 Delete type=0 #3
+2023/10/27-19:46:53.364 53a Level-0 table #7: started
+2023/10/27-19:46:53.391 53a Level-0 table #7: 2690170 bytes OK
+2023/10/27-19:46:53.393 53a Delete type=0 #4
+2023/10/27-19:49:33.383 539 Compacting 1@1 + 1@2 files
+2023/10/27-19:49:33.398 539 Generated table #8@1: 51 keys, 17158 bytes
+2023/10/27-19:49:33.398 539 Compacted 1@1 + 1@2 files => 17158 bytes
+2023/10/27-19:49:33.401 539 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/27-19:49:33.401 539 Delete type=2 #5
+2023/10/27-19:49:33.401 539 Delete type=2 #7
+2023/10/27-19:53:24.487 539 Level-0 table #10: started
+2023/10/27-19:53:24.489 539 Level-0 table #10: 304351 bytes OK
+2023/10/27-19:53:24.491 539 Delete type=0 #6
+2023/10/27-19:53:24.492 539 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/10/27-19:53:24.492 539 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 17177 : 1
+2023/10/27-19:53:24.492 539 Compacting 1@1 + 1@2 files
+2023/10/27-19:53:24.494 539 Generated table #11@1: 50 keys, 13882 bytes
+2023/10/27-19:53:24.494 539 Compacted 1@1 + 1@2 files => 13882 bytes
+2023/10/27-19:53:24.495 539 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/27-19:53:24.495 539 Delete type=2 #8
+2023/10/27-19:53:24.495 539 Delete type=2 #10
+2023/10/27-19:53:24.496 539 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 17177 : 1 .. (end); will stop at (end)

@@ -1,0 +1,21 @@
+2023/10/30-09:02:28.895 abb Reusing MANIFEST /home/michal/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/30-09:02:28.896 abb Recovering log #88
+2023/10/30-09:02:28.899 abb Reusing old log /home/michal/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000088.log 
+2023/10/30-09:57:05.389 aae Level-0 table #93: started
+2023/10/30-09:57:05.398 aae Level-0 table #93: 1069011 bytes OK
+2023/10/30-09:57:05.401 aae Delete type=0 #88
+2023/10/30-09:57:17.447 aae Compacting 1@1 + 1@2 files
+2023/10/30-09:57:17.461 aae Generated table #94@1: 488 keys, 36697 bytes
+2023/10/30-09:57:17.461 aae Compacted 1@1 + 1@2 files => 36697 bytes
+2023/10/30-09:57:17.463 aae compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/30-09:57:17.463 aae Delete type=2 #90
+2023/10/30-09:57:17.463 aae Delete type=2 #93
+2023/10/30-14:09:44.759 aad Level-0 table #96: started
+2023/10/30-14:09:44.769 aad Level-0 table #96: 1080191 bytes OK
+2023/10/30-14:09:44.771 aad Delete type=0 #92
+2023/10/30-14:10:04.364 aae Compacting 1@1 + 1@2 files
+2023/10/30-14:10:04.380 aae Generated table #97@1: 893 keys, 50395 bytes
+2023/10/30-14:10:04.380 aae Compacted 1@1 + 1@2 files => 50395 bytes
+2023/10/30-14:10:04.382 aae compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/30-14:10:04.382 aae Delete type=2 #94
+2023/10/30-14:10:04.382 aae Delete type=2 #96

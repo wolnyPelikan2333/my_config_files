@@ -1,0 +1,152 @@
+language:
+  en: en
+  pl: pl
+
+login:
+  en: Login
+  pl: Login
+
+password:
+  en: Password
+  pl: Hasło
+
+no_account:
+  en: I don't have an account
+  pl: Nie mam konta
+
+submit:
+  en: Submit
+  pl: Wyślij
+
+error_occured:
+  en: Error occured
+  pl: Wystąpił błąd
+
+settings:
+  en: Settings
+  pl: Ustawienia
+
+login_action:
+  en: Login
+  pl: Zaloguj
+
+logout:
+  en: Logout
+  pl: Wyloguj
+
+account_status:
+  en: Account status
+  pl: Stan konta
+
+account_type:
+  en: Account type
+  pl: Stan konta
+
+valid_untill:
+  en: "Valid untill: %when%"
+  pl: "Ważne do: %when%"
+
+top_up_account:
+  en: Top-up account
+  pl: Doładuj konto
+
+file_search:
+  en: File search
+  pl: Wyszukaj pliki
+
+search:
+  en: Search
+  pl: Szukaj
+
+file_download:
+  en: File download
+  pl: Pobierz pliki
+
+download:
+  en: Download
+  pl: Pobierz
+
+transfer:
+  en: Transfer
+  pl: Transfer
+
+premium:
+  en: Premium
+  pl: Premium
+
+not_logged_title:
+  en: You are not logged into the extension
+  pl: Nie jesteś zalogowany we wtyczce
+
+not_logged_body:
+  en: Please log in to use this functionality.
+  pl: Zaloguj się aby korzystać z tej funkcjonalności.
+
+no_links_title:
+  en: No links
+  pl: Brak linków
+
+on:
+  en: On
+  pl: Włączone
+
+off:
+  en: Off
+  pl: Wyłączone
+
+messages:
+  en: Messages
+  pl: Wiadomości
+
+hide_24h:
+  en: Hide for 24h
+  pl: Ukryj na 24h
+
+show_hostings_button_header:
+  en: Show download button on supported hosting websites
+  pl: Pokaż przycisk pobierania na stronach wspieranych hostingów
+
+show_hostings_button_body:
+  en: Whenever you navigate to supported hosting website, a button appears in the top right corner, enabling quick file download. Set to on, if you want to see it. By clicking on the button you can also hide it for 24 hours.
+  pl: Gdy przejdziesz na stronę obsługiwanego hostingu, w prawym górnym rogu pojawia się przycisk który umożliwia natychmiastowe pobranie pliku. Ustaw, czy chcesz żeby był on widoczny. Klikając na przycisk możesz wybrać, aby pozostał on ukryty przez 24 godziny.
+
+service_messages_header:
+  en: Show service messages in new tab
+  pl: Pokazuj wiadomości z usługi w nowej zakładce
+
+content_parser_header:
+  en: Use web content parser to find compatible links
+  pl: Użyj parsera zawartości podstron aby zaznaczać kompatybilne linki
+
+content_parser_body:
+  en: When you surf, the plugin automatically checks page content to find downloadable links. When one is found, it is marked using small icon. It means you can easily download selected link using context menu (mouse right click).
+  pl: Gdy przeglądasz internet wtyczka automatycznie skanuje strony aby znaleźć obsługiwane odnośniki. Znalezione linki są oznaczane małą ikonką. Jej obecność oznacza, że możesz łatwo pobrać dany plik używając menu kontekstowego (prawy przycisk myszy).
+
+low_account_notifications_header:
+  en: Low account notifications
+  pl: Powiadomienia o niskim stanie konta
+
+low_account_notifications_body:
+  en: If you start running low (under 2 days of premium account or less than 5 GB of transfer), you'll receive a daily reminder.
+  pl: Jeżeli stan Twojego konta będzie niski (poniżej 2 dni premium lub poniżej 5 GB transferu) raz dziennie otrzymasz informację w postaci powiadomienia.
+
+account_expires_premium_header:
+  en: Your account will expire soon
+  pl: Twoje konto wkrótce wygaśnie
+
+account_expires_premium_body:
+  en: Your premium account will expire in less than 3 days.
+  pl: Twoje konto premium wygaśnie za mniej niż 3 dni.
+
+account_expires_transfer_header:
+  en: Your account has low transfer balance
+  pl: Twoje konto ma niski stan transferu
+
+account_expires_transfer_body:
+  en: You have less than 4 GB of available transfer.
+  pl: Masz mniej niż 4 GB dostępnego transferu.
+  
+tos_privacy_policy:
+  en: Terms and Conditions, Privacy Policy
+  pl: Regulamin, polityka prywatności
+

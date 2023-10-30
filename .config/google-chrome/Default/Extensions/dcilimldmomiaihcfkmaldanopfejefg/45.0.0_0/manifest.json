@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.wgt.com/chrome/ctth/?v=45.0.0"
+      },
+      "urls": [ "http://www.wgt.com/chrome/ctth/", "http://www.wgt.com/tournaments/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "128.png",
+      "24": "24.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCoSBXkw1D5w7QvH1Wf3k4AKm7azaOXGwh0FAWa3S6Mmp+cV3gJTPplUhFDJc9EVFPeWLqgpFX1MzFY5HJdMa4VDw7Xao2/j8ibvpFU+rJNZDqJxBFUbW1iCNMTjFt5NVkooRMkJngsYf1QKm+uJ8XYvP8SILDR8rnZx3KWrj9b7wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "45.0.0"
+}

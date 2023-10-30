@@ -1,0 +1,176 @@
+{
+    "ext_name": {
+        "message": "Qwer PDF"
+    },
+    "ext_description":{
+        "message":"Qwer PDF可以在線將PDF轉換為 Word、Excel和PPT。可在線編輯Word和PDF。100%免費，提高您的生產力。"
+    },
+    "logo_title_text":{
+        "message":"在線且 100% 免費"
+    },
+    "page_rateus": {
+        "message": "⭑評價我們"
+    },
+    "page_login": {
+        "message": "登錄"
+    },
+    "page_pdf_to_word": {
+        "message": "PDF到Word"
+    },
+    "page_pdf_to_excel": {
+        "message": "PDF到Excel"
+    },
+    "page_pdf_to_ppt": {
+        "message": "PDF到PPT"
+    },
+    "page_pdf_to_jpg": {
+        "message": "PDF到JPG"
+    },
+    "page_pdf_to_png": {
+        "message": "PDF到PNG"
+    },
+    "page_word_to_pdf": {
+        "message": "Word到PDF"
+    },
+    "page_excel_to_pdf": {
+        "message": "Excel到PDF"
+    }, 
+    "page_ppt_to_pdf": {
+        "message": "PPT到PDF"
+    }, 
+    "page_jpg_to_pdf": {
+        "message": "JPG到PDF"
+    }, 
+    "page_png_to_pdf": {
+        "message": "PNG到PDF"
+    }, 
+    "page_merge_pdf": {
+        "message": "合併PDF"
+    },
+    "page_split_pdf": {
+        "message": "拆分PDF"
+    },
+    "page_compress_pdf": {
+        "message": "壓縮PDF"
+    },
+    "page_edit_pdf": {
+        "message": "編輯PDF"
+    },
+    "page_protect_pdf": {
+        "message": "保護PDF"
+    },
+    "page_unlock_pdf": {
+        "message": "解鎖PDF"
+    },
+    "page_watermark_pdf": {
+        "message": "水印"
+    },
+    "page_html_to_pdf": {
+        "message": "HTML到PDF"
+    },
+    "page_pdf_to_html": {
+        "message": "PDF到HTML"
+    },
+    "page_remove_pdf": {
+        "message": "刪除頁面"
+    },
+    "page_save_as_pdf": {
+        "message": "另存為PDF"
+    },
+    "page_online_office": {
+        "message": "線上Office"
+    },
+    "page_word_online_editor": {
+        "message": "Word編輯"
+    },
+    "page_word_online_create": {
+        "message": "Word創建"
+    },
+    "page_word_online_view": {
+        "message": "Word查看"
+    },
+    "page_excel_online_editor": {
+        "message": "Excel編輯"
+    },
+    "page_excel_online_create": {
+        "message": "Excel創建"
+    },
+    "page_excel_online_view": {
+        "message": "Excel查看"
+    },
+    "page_ppt_online_create": {
+        "message": "PPT創建"
+    },
+    "page_upload_desc": {
+        "message": "選擇檔案或拖動檔案到此處"
+    },
+    "page_upload_progress_text": {
+        "message": "上傳中..."
+    },
+    "page_download_btn_text": {
+        "message": "下載"
+    },
+    "page_converting_text": {
+        "message": "正在處理任務 {{title}}..."
+    },
+    "page_converting_hint": {
+        "message": "檔案正在處理中,請不要關閉瀏覽器!<br>稍等幾分鐘.:)"
+    },
+    "page_time_hint": {
+        "message": "檔案保留時間"
+    },
+    "page_time_hours": {
+        "message": "小時"
+    },
+    "page_time_minutes": {
+        "message": "分"
+    },
+    "page_time_seconds": {
+        "message": "秒"
+    },
+    "upload_file_too_big": {
+        "message": "當前檔案太大"
+    },
+    "upload_file_too_big_msg": {
+        "message": "當前檔案太大 ({{filesize}} MiB). 最大允許: {{maxFilesize}} MiB."
+    },
+    "upload_err_msg": {
+        "message": "抱歉！上傳檔案時發生錯誤，請稍後重試."
+    },
+    "conversion_complete": {
+        "message": "轉換已完成."
+    },
+    "notifications_conversion_failed_title": {
+        "message": "轉換發生錯誤."
+    },
+    "notifications_conversion_complete_title": {
+        "message": " 轉換已完成."
+    },
+    "notifications_conversion_msg": {
+        "message": "100%免費的在線到換工具"
+    },
+    "page_ppt_online_editor":{
+        "message": "PPT編輯"
+    },
+    "page_powerpoint_viewer":{
+        "message": "PPT 查看"
+    },
+    "page_word_online":{
+        "message": "Word Online"
+    },
+    "page_excel_online":{
+        "message": "Excel Online"
+    },
+    "page_ppt_online":{
+        "message": "PowerPoint Online"
+    },
+    "page_sign_pdf":{
+        "message": "PDF 簽名"
+    },
+    "page_page_number":{
+        "message": "添加頁碼"
+    },
+    "page_pdf_convert":{
+        "message": "轉換"
+    }
+}

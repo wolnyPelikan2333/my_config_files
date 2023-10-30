@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <title>Qwer PDF</title>
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/upload_popup.css">
+    <link rel="stylesheet" href="css/common_popup.css">
+</head>
+
+<body>
+    <div class="main-box upload uploadPopup" id="main-box">
+        <header>
+            <nav>
+                 <a href="#">
+                     <img width="110" height="53" loading="lazy" src="images/logo.svg" alt="logo">
+                 </a>
+            </nav>
+            <nav class="nav_right">
+                 <a href="#" class=" rateus" target="_blank">
+                    Rate Us
+                 </a>
+                 <a href="./files_popup.html" class="history">
+                    <span class="hide">0</span>
+                     <img width="25" height="25" loading="lazy" src="./images/history.svg" alt="history"> 
+                     History
+                 </a>
+                 <a href="https://qwerpdf.com/user/signin" class="login loginbtn" target="_blank" data-localize="__MSG_page_login__">
+                     __MSG_page_login__
+                 </a>
+                 <a href="#" class="userInfo userface hide">
+                     <img width="27" height="27" loading="lazy" src="./images/icon.png">
+                 </a>
+                 <div class="fullScreen">
+                    <img width="27" height="27" loading="lazy" src="./images/fullScreen.svg">
+                </div>
+            </nav>
+         </header>
+   
+        <div class="upload_content" id="upload-content">
+            <div class="left_index">
+                <a href="./index_popup.html">
+                    <img width="25" height="25" src="./images/left.svg" alt="">
+                </a>
+            </div>
+            <div id="item-h1" class="item-h1"  data-localize="__MSG_page_pdf_to_word__">__MSG_page_pdf_to_word__</div>
+            <div id="upload-box" class="upload-box">
+                <div class="upload_img">
+                    <img id="upload_img_popup" width="60" height="60" loading="lazy" src="./images/up.svg" alt="up">
+                </div>
+                <a href="#" id="upload-btn" class="dz-clickable">
+                    Drag file here or <span> upload file </span>
+                </a>
+                <!-- <div class="thirdParty">
+                    <div class="thirdParty_item select_google_drive">
+                        <img width="25" height="25" loading="lazy" src="./images/google-drive.svg" alt="google-drive">
+                        Google Drive
+                    </div>
+                    <div class="thirdParty_item select_dropbox_file">
+                        <img width="25" height="25" loading="lazy" src="./images/dropbox.svg" alt="dropbox">
+                        Dropbox
+                    </div>
+                    <div class="thirdParty_item select_upload_url">
+                        <img width="20" height="20" loading="lazy" src="./images/url.svg" alt="Url">
+                        Url
+                    </div>
+                </div> -->
+            </div>
+        </div>
+        <div class="upload-preview"></div>
+
+        <div class="upload-progress hide">
+            <div class="text" data-localize="__MSG_page_upload_progress_text__">__MSG_page_upload_progress_text__ <span></span></div>
+            <div class="progress">
+                <div class="current"></div>
+            </div>
+        </div>
+        <div class="convert-progress hide">
+            <div id="converting" class="text" data-localize="__MSG_page_converting_text__">__MSG_page_converting_text__</div>
+            <div class="progress">
+                <svg xmlns="http://www.w3.org/2000/svg" class="svg-loading" height="110" width="110" viewBox="0 0 110 110">
+                    <linearGradient id="svg-gradient" gradientUnits="userSpaceOnUse" x1="100%" y1="100%" x2="0%"
+                        y2="0%">
+                        <stop offset="0%" style="stop-color:#034E46" />
+                        <stop offset="100%" style="stop-color:#D3DD13" />
+                    </linearGradient>
+                    <circle cx="50%" cy="50%" r="50" stroke-width="2" stroke="#c4c4c4" fill="none"></circle>
+                    <circle class="progress" cx="50%" cy="50%" r="50" stroke-width="2" fill="none" stroke="url(#svg-gradient)"
+                        transform="rotate(-90 55 55)" stroke-dasharray="0, 314" stroke-linecap="round"></circle>
+                    <text class="progress-text" x="50%" y="50%" fill="#333">0%</text>
+                </svg>
+            </div>
+            <div>
+                <a href="" class="download-btn hide" target="_blank" data-localize="__MSG_page_download_btn_text__">__MSG_page_download_btn_text__</a>
+            </div>
+            <div class="hint" data-localize="__MSG_page_converting_hint__">
+                __MSG_page_converting_hint__
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="./js/config.js"></script>
+    <script type="text/javascript" src="./js/localize.js"></script>
+    <script type="text/javascript" src="./js/misc.js"></script>
+
+    <script type="text/javascript" src="./js/dropzone/dropzone.min.js"></script>
+    <script type="text/javascript" src="./js/upload.js"></script>
+    
+</body>
+
+</html>

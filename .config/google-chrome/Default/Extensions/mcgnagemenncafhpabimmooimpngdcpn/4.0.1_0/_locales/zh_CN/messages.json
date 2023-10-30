@@ -1,0 +1,176 @@
+{
+   "conversion_complete": {
+      "message": "转换已完成."
+   },
+   "ext_description": {
+      "message": "Qwer PDF可以在线将PDF转换为 Word、Excel和PPT。可在线编辑Word和PDF。100%免费，提高您的生产力。"
+   },
+   "ext_name": {
+      "message": "Qwer PDF"
+   },
+   "logo_title_text": {
+      "message": "在线且 100% 免费"
+   },
+   "notifications_conversion_complete_title": {
+      "message": " 转换已完成."
+   },
+   "notifications_conversion_failed_title": {
+      "message": "转换发生错误."
+   },
+   "notifications_conversion_msg": {
+      "message": "100%免费的在线转换工具"
+   },
+   "page_compress_pdf": {
+      "message": "压缩PDF"
+   },
+   "page_converting_hint": {
+      "message": "文件正在处理中,请不要关闭浏览器!\u003Cbr>稍等几分钟.:)"
+   },
+   "page_converting_text": {
+      "message": "正在处理任务 {{title}}..."
+   },
+   "page_download_btn_text": {
+      "message": "下载"
+   },
+   "page_edit_pdf": {
+      "message": "编辑PDF"
+   },
+   "page_excel_online": {
+      "message": "Excel Online"
+   },
+   "page_excel_online_create": {
+      "message": "Excel创建"
+   },
+   "page_excel_online_editor": {
+      "message": "Excel编辑"
+   },
+   "page_excel_online_view": {
+      "message": "Excel查看"
+   },
+   "page_excel_to_pdf": {
+      "message": "Excel转PDF"
+   },
+   "page_html_to_pdf": {
+      "message": "HTML转PDF"
+   },
+   "page_jpg_to_pdf": {
+      "message": "JPG转PDF"
+   },
+   "page_login": {
+      "message": "登录"
+   },
+   "page_merge_pdf": {
+      "message": "合并PDF"
+   },
+   "page_online_office": {
+      "message": "在线Office"
+   },
+   "page_page_number": {
+      "message": "添加页码"
+   },
+   "page_pdf_convert": {
+      "message": "转换"
+   },
+   "page_pdf_to_excel": {
+      "message": "PDF转Excel"
+   },
+   "page_pdf_to_html": {
+      "message": "PDF转HTML"
+   },
+   "page_pdf_to_jpg": {
+      "message": "PDF转JPG"
+   },
+   "page_pdf_to_png": {
+      "message": "PDF转PNG"
+   },
+   "page_pdf_to_ppt": {
+      "message": "PDF转PPT"
+   },
+   "page_pdf_to_word": {
+      "message": "PDF转Word"
+   },
+   "page_png_to_pdf": {
+      "message": "PNG转PDF"
+   },
+   "page_powerpoint_viewer": {
+      "message": "PPT 查看"
+   },
+   "page_ppt_online": {
+      "message": "PowerPoint Online"
+   },
+   "page_ppt_online_create": {
+      "message": "PPT创建"
+   },
+   "page_ppt_online_editor": {
+      "message": "PPT编辑"
+   },
+   "page_ppt_to_pdf": {
+      "message": "PPT转PDF"
+   },
+   "page_protect_pdf": {
+      "message": "PDF加密"
+   },
+   "page_rateus": {
+      "message": "⭑评价我们"
+   },
+   "page_remove_pdf": {
+      "message": "删除页面"
+   },
+   "page_save_as_pdf": {
+      "message": "另存为PDF"
+   },
+   "page_sign_pdf": {
+      "message": "PDF 签名"
+   },
+   "page_split_pdf": {
+      "message": "拆分PDF"
+   },
+   "page_time_hint": {
+      "message": "文件保留时间"
+   },
+   "page_time_hours": {
+      "message": "小时"
+   },
+   "page_time_minutes": {
+      "message": "分"
+   },
+   "page_time_seconds": {
+      "message": "秒"
+   },
+   "page_unlock_pdf": {
+      "message": "PDF解锁"
+   },
+   "page_upload_desc": {
+      "message": "选择文件或拖动文件到此处"
+   },
+   "page_upload_progress_text": {
+      "message": "上传中..."
+   },
+   "page_watermark_pdf": {
+      "message": "水印"
+   },
+   "page_word_online": {
+      "message": "Word Online"
+   },
+   "page_word_online_create": {
+      "message": "Word创建"
+   },
+   "page_word_online_editor": {
+      "message": "Word编辑"
+   },
+   "page_word_online_view": {
+      "message": "Word查看"
+   },
+   "page_word_to_pdf": {
+      "message": "Word转PDF"
+   },
+   "upload_err_msg": {
+      "message": "抱歉！上传文件时发生错误，请稍后重试."
+   },
+   "upload_file_too_big": {
+      "message": "当前文件太大"
+   },
+   "upload_file_too_big_msg": {
+      "message": "当前文件太大 ({{filesize}} MiB). 最大允许: {{maxFilesize}} MiB."
+   }
+}

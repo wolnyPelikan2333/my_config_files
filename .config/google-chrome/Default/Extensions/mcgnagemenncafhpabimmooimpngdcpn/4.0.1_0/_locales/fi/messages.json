@@ -1,0 +1,176 @@
+{
+   "conversion_complete": {
+      "message": "Muuntaminen valmis."
+   },
+   "ext_description": {
+      "message": "Qwer PDF -laajennus on online-muunnos PDF:ksi Wordiksi ja Exceliksi, PPT- ja PDF-editoriksi - 100% ilmainen. Tehosta tuottavuuttasi."
+   },
+   "ext_name": {
+      "message": "Qwer PDF"
+   },
+   "logo_title_text": {
+      "message": "verkossa ja 100% ilmaiseksi"
+   },
+   "notifications_conversion_complete_title": {
+      "message": " Muuntaminen valmis."
+   },
+   "notifications_conversion_failed_title": {
+      "message": "Muunnosvirhe."
+   },
+   "notifications_conversion_msg": {
+      "message": "100% ilmainen online-muunnostyökalu"
+   },
+   "page_compress_pdf": {
+      "message": "Pakkaa PDF"
+   },
+   "page_converting_hint": {
+      "message": "Älä sulje selainta Odota, kunnes tiedostosi on ladattu ja käsitelty! \u003Cbr> Tämä voi kestää muutaman minuutin.:)"
+   },
+   "page_converting_text": {
+      "message": "Muunnetaan {{title}}..."
+   },
+   "page_download_btn_text": {
+      "message": "Ladata"
+   },
+   "page_edit_pdf": {
+      "message": "PDF -editori"
+   },
+   "page_excel_online": {
+      "message": "Excel Online"
+   },
+   "page_excel_online_create": {
+      "message": "Excel verkossa"
+   },
+   "page_excel_online_editor": {
+      "message": "Excel Muokkaa"
+   },
+   "page_excel_online_view": {
+      "message": "Excel näkymä"
+   },
+   "page_excel_to_pdf": {
+      "message": "Excel PDF:ksi"
+   },
+   "page_html_to_pdf": {
+      "message": "HTML PDF:ksi"
+   },
+   "page_jpg_to_pdf": {
+      "message": "JPG PDF:ksi"
+   },
+   "page_login": {
+      "message": "Kirjaudu sisään"
+   },
+   "page_merge_pdf": {
+      "message": "Yhdistä PDF"
+   },
+   "page_online_office": {
+      "message": "VERKKOTOIMISTO"
+   },
+   "page_page_number": {
+      "message": "Sivunumero"
+   },
+   "page_pdf_convert": {
+      "message": "Muunna"
+   },
+   "page_pdf_to_excel": {
+      "message": "PDF Excel:ksi"
+   },
+   "page_pdf_to_html": {
+      "message": "PDF HTML:ksi"
+   },
+   "page_pdf_to_jpg": {
+      "message": "PDF JPG:ksi"
+   },
+   "page_pdf_to_png": {
+      "message": "PDF PNG:ksi"
+   },
+   "page_pdf_to_ppt": {
+      "message": "PDF PPT:ksi"
+   },
+   "page_pdf_to_word": {
+      "message": "PDF Word:ksi"
+   },
+   "page_png_to_pdf": {
+      "message": "PNG PDF:ksi"
+   },
+   "page_powerpoint_viewer": {
+      "message": "PPT näkymä"
+   },
+   "page_ppt_online": {
+      "message": "PowerPoint Online"
+   },
+   "page_ppt_online_create": {
+      "message": "PPT verkossa"
+   },
+   "page_ppt_online_editor": {
+      "message": "PPT Muokkaa"
+   },
+   "page_ppt_to_pdf": {
+      "message": "PPT PDF:ksi"
+   },
+   "page_protect_pdf": {
+      "message": "Suojaa PDF"
+   },
+   "page_rateus": {
+      "message": "⭑Arvioi Meidät"
+   },
+   "page_remove_pdf": {
+      "message": "Poista sivut"
+   },
+   "page_save_as_pdf": {
+      "message": "Tallenna PDF -tiedostona"
+   },
+   "page_sign_pdf": {
+      "message": "Allekirjoita PDF"
+   },
+   "page_split_pdf": {
+      "message": "Jaa PDF"
+   },
+   "page_time_hint": {
+      "message": "Asiakirjojen säilytysaika"
+   },
+   "page_time_hours": {
+      "message": "Tuntia "
+   },
+   "page_time_minutes": {
+      "message": "Minuuttia"
+   },
+   "page_time_seconds": {
+      "message": "Sekuntia"
+   },
+   "page_unlock_pdf": {
+      "message": "Avaa PDF"
+   },
+   "page_upload_desc": {
+      "message": "Valitse tiedosto tai vedä tiedosto tästä"
+   },
+   "page_upload_progress_text": {
+      "message": "lähettää..."
+   },
+   "page_watermark_pdf": {
+      "message": "vesileima"
+   },
+   "page_word_online": {
+      "message": "Word Online"
+   },
+   "page_word_online_create": {
+      "message": "Word verkossa"
+   },
+   "page_word_online_editor": {
+      "message": "Word Muokkaa"
+   },
+   "page_word_online_view": {
+      "message": "Word näkymä"
+   },
+   "page_word_to_pdf": {
+      "message": "Word PDF:ksi"
+   },
+   "upload_err_msg": {
+      "message": "Tiedoston lataamisessa tapahtui virhe. Yritä myöhemmin uudelleen."
+   },
+   "upload_file_too_big": {
+      "message": "Tiedosto on liian suuri"
+   },
+   "upload_file_too_big_msg": {
+      "message": "Tiedosto on liian suuri ({{filesize}} MiB). Suurin tiedostokoko: {{maxFilesize}} MiB."
+   }
+}

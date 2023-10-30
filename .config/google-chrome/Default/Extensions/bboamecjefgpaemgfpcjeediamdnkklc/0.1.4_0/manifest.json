@@ -1,0 +1,36 @@
+{
+   "action": {
+      "default_icon": "icon-16.png",
+      "default_popup": "popup.html",
+      "default_title": "Ultimate Video Translator"
+   },
+   "background": {
+      "service_worker": "/js/background.bundle.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "js/content-script.bundle.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://*.facebook.com/*", "*://*.twitter.com/*", "*://twitter.com/*", "*://*.linkedin.com/*" ]
+   } ],
+   "description": "Real-time video translator using Google Translate.",
+   "host_permissions": [ "*://*.youtube.com/*", "*://*.facebook.com/*", "*://*.twitter.com/*", "*://twitter.com/*", "*://*.linkedin.com/*" ],
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx97D25kpAiwikEO7h1JZHtu4QZ8NDPNwFILvOqsjQDDAq+sz4LR6vhBMsqVAfjb/5CldPMRoQjCFY1MVE1014K131e328wUY3czWq78MjiS7pB5k1i9TQCIOBwztOboyJClOc6bRSmOWK9564vhiShjeFtvb2nOVu0tB0zRt2YyLh8O3iMZdUZQlFUz37WOVfSP6FR6GKi7yfQIL5fTyS+vcPT2lFEEC8vwGdar/gbf6jgyH3trUryet89VO9A+1JUCkp89B2HfGaZhK6ESjRJ7R6zi7vSlipJ8duBSJmZnXz6j/cyS2ZNHaDkl4B6J8hYENhzxYBnPfZO8fpTLYswIDAQAB",
+   "manifest_version": 3,
+   "name": "Ultimate Video Translator",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "options.html"
+   },
+   "permissions": [ "activeTab", "storage", "scripting", "declarativeNetRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.4",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*.youtube.com/*" ],
+      "resources": [ "js/content-script.bundle.js" ]
+   } ]
+}

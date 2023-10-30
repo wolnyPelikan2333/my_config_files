@@ -1,0 +1,13 @@
+2023/10/30-09:02:29.221 aae Reusing MANIFEST /home/michal/.config/google-chrome/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/30-09:02:29.222 aae Recovering log #30
+2023/10/30-09:02:29.225 aae Reusing old log /home/michal/.config/google-chrome/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/000030.log 
+2023/10/30-09:02:29.240 aae Level-0 table #36: started
+2023/10/30-09:02:29.242 aae Level-0 table #36: 75187 bytes OK
+2023/10/30-09:02:29.244 aae Delete type=0 #30
+2023/10/30-09:02:29.244 aad Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/30-14:39:43.705 aae Compacting 1@1 + 1@2 files
+2023/10/30-14:39:43.721 aae Generated table #37@1: 62 keys, 5066 bytes
+2023/10/30-14:39:43.721 aae Compacted 1@1 + 1@2 files => 5066 bytes
+2023/10/30-14:39:43.722 aae compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/30-14:39:43.722 aae Delete type=2 #33
+2023/10/30-14:39:43.722 aae Delete type=2 #36

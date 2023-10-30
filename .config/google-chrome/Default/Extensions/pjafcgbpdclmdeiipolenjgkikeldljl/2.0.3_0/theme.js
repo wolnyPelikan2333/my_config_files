@@ -1,0 +1,1 @@
+"undefined"!=typeof reactHotLoaderGlobal&&reactHotLoaderGlobal.default.signature,chrome.storage.sync.get(["key"],(function(e){void 0!==e.key&&"DARK"===e.key&&(document.body.style.backgroundColor="#191819")}));

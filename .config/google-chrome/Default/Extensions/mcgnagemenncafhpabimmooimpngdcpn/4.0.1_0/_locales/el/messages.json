@@ -1,0 +1,176 @@
+{
+   "conversion_complete": {
+      "message": "Η μετατροπή ολοκληρώθηκε."
+   },
+   "ext_description": {
+      "message": "Η επέκταση Qwer PDF είναι Online Μετατροπή PDF σε Word & Excel, PPT & PDF Editor - 100% δωρεάν. Ενισχύστε την παραγωγικότητά σας."
+   },
+   "ext_name": {
+      "message": "Qwer PDF"
+   },
+   "logo_title_text": {
+      "message": "online και 100% δωρεάν"
+   },
+   "notifications_conversion_complete_title": {
+      "message": " Η μετατροπή ολοκληρώθηκε."
+   },
+   "notifications_conversion_failed_title": {
+      "message": "Σφάλμα μετατροπής."
+   },
+   "notifications_conversion_msg": {
+      "message": "100% δωρεάν διαδικτυακό εργαλείο μετατροπής"
+   },
+   "page_compress_pdf": {
+      "message": "Συμπίεση PDF"
+   },
+   "page_converting_hint": {
+      "message": "Μην κλείσετε το πρόγραμμα περιήγησής σας Περιμένετε μέχρι να μεταφορτωθούν και να υποβληθούν σε επεξεργασία τα αρχεία σας! \u003Cbr> Αυτό μπορεί να διαρκέσει λίγα λεπτά.:)"
+   },
+   "page_converting_text": {
+      "message": "Μετατροπή {{title}}..."
+   },
+   "page_download_btn_text": {
+      "message": "Κατεβάστε"
+   },
+   "page_edit_pdf": {
+      "message": "Επεξεργαστής PDF"
+   },
+   "page_excel_online": {
+      "message": "Excel Online"
+   },
+   "page_excel_online_create": {
+      "message": "Excel δημιουργία"
+   },
+   "page_excel_online_editor": {
+      "message": "Επεξεργασία Excel"
+   },
+   "page_excel_online_view": {
+      "message": "προβολή Excel"
+   },
+   "page_excel_to_pdf": {
+      "message": "Excel σε PDF"
+   },
+   "page_html_to_pdf": {
+      "message": "HTML σε PDF"
+   },
+   "page_jpg_to_pdf": {
+      "message": "JPG σε PDF"
+   },
+   "page_login": {
+      "message": "Σύνδεση"
+   },
+   "page_merge_pdf": {
+      "message": "Συγχώνευση PDF"
+   },
+   "page_online_office": {
+      "message": "ONLINE OFFICE"
+   },
+   "page_page_number": {
+      "message": "Αριθμός σελίδας"
+   },
+   "page_pdf_convert": {
+      "message": "Μετατροπή"
+   },
+   "page_pdf_to_excel": {
+      "message": "PDF σε Excel"
+   },
+   "page_pdf_to_html": {
+      "message": "PDF σε HTML"
+   },
+   "page_pdf_to_jpg": {
+      "message": "PDF σε JPG"
+   },
+   "page_pdf_to_png": {
+      "message": "PDF σε PNG"
+   },
+   "page_pdf_to_ppt": {
+      "message": "PDF σε PPT"
+   },
+   "page_pdf_to_word": {
+      "message": "PDF σε Word"
+   },
+   "page_png_to_pdf": {
+      "message": "PNG σε PDF"
+   },
+   "page_powerpoint_viewer": {
+      "message": "προβολή PPT"
+   },
+   "page_ppt_online": {
+      "message": "PowerPoint Online"
+   },
+   "page_ppt_online_create": {
+      "message": "PPT δημιουργία"
+   },
+   "page_ppt_online_editor": {
+      "message": "Επεξεργασία PPT"
+   },
+   "page_ppt_to_pdf": {
+      "message": "PPT σε PDF"
+   },
+   "page_protect_pdf": {
+      "message": "Προστατέψτε το PDF"
+   },
+   "page_rateus": {
+      "message": "⭑Βαθμολογήστε μας"
+   },
+   "page_remove_pdf": {
+      "message": "Κατάργηση σελίδων"
+   },
+   "page_save_as_pdf": {
+      "message": "Αποθήκευση ως PDF"
+   },
+   "page_sign_pdf": {
+      "message": "Υπογραφή PDF"
+   },
+   "page_split_pdf": {
+      "message": "Διαχωρισμός PDF"
+   },
+   "page_time_hint": {
+      "message": "Χρόνος διατήρησης εγγράφων"
+   },
+   "page_time_hours": {
+      "message": "Oursρες"
+   },
+   "page_time_minutes": {
+      "message": "Λεπτά"
+   },
+   "page_time_seconds": {
+      "message": "Δευτερόλεπτα"
+   },
+   "page_unlock_pdf": {
+      "message": "Ξεκλειδώστε το PDF"
+   },
+   "page_upload_desc": {
+      "message": "Επιλέξτε αρχείο ή σύρετε το αρχείο εδώ"
+   },
+   "page_upload_progress_text": {
+      "message": "Μεταφόρτωση..."
+   },
+   "page_watermark_pdf": {
+      "message": "υδατογράφημα"
+   },
+   "page_word_online": {
+      "message": "Word Online"
+   },
+   "page_word_online_create": {
+      "message": "Word δημιουργία"
+   },
+   "page_word_online_editor": {
+      "message": "Επεξεργασία Word"
+   },
+   "page_word_online_view": {
+      "message": "Προβολή λέξης"
+   },
+   "page_word_to_pdf": {
+      "message": "Word σε PDF"
+   },
+   "upload_err_msg": {
+      "message": "Λυπούμαστε, προέκυψε σφάλμα κατά τη μεταφόρτωση του αρχείου. Προσπαθήστε ξανά αργότερα."
+   },
+   "upload_file_too_big": {
+      "message": "Το αρχείο είναι πολύ μεγάλο"
+   },
+   "upload_file_too_big_msg": {
+      "message": "Το αρχείο είναι πολύ μεγάλο ({{filesize}} MiB). Μέγιστο μέγεθος αρχείου: {{maxFilesize}} MiB."
+   }
+}

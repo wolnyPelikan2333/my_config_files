@@ -1,0 +1,11 @@
+.upload_content{
+    min-height: calc(100% - 88px);
+}
+.item-h1{
+    font-size: 30px;
+    margin-top: 55px;
+}
+.upload-box{
+    min-height: 220px;
+    padding-top: 49px;
+}

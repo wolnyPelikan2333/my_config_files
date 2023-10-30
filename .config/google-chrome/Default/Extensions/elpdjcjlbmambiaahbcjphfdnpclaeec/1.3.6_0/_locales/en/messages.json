@@ -1,0 +1,134 @@
+{
+   "account_expires_premium_body": {
+      "message": "Your premium account will expire in less than 3 days."
+   },
+   "account_expires_premium_header": {
+      "message": "Your account will expire soon"
+   },
+   "account_expires_transfer_body": {
+      "message": "You have less than 4 GB of available transfer."
+   },
+   "account_expires_transfer_header": {
+      "message": "Your account has low transfer balance"
+   },
+   "account_status": {
+      "message": "Account status"
+   },
+   "account_type": {
+      "message": "Account type"
+   },
+   "content_parser_body": {
+      "message": "When you surf, the plugin automatically checks page content to find downloadable links. When one is found, it is marked using small icon. It means you can easily download selected link using context menu (mouse right click)."
+   },
+   "content_parser_header": {
+      "message": "Use web content parser to find compatible links"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "download_icon_title": {
+      "message": "Download using Rapideo.pl"
+   },
+   "download_with": {
+      "message": "Download using Rapideo.pl"
+   },
+   "error_occured": {
+      "message": "Error occured"
+   },
+   "extension_description": {
+      "message": "Rapideo.pl native extension"
+   },
+   "extension_name": {
+      "message": "Rapideo.pl"
+   },
+   "file_download": {
+      "message": "File download"
+   },
+   "file_search": {
+      "message": "File search"
+   },
+   "hide_24h": {
+      "message": "Hide for 24h"
+   },
+   "language": {
+      "message": "en"
+   },
+   "login": {
+      "message": "Login"
+   },
+   "login_action": {
+      "message": "Login"
+   },
+   "logout": {
+      "message": "Logout"
+   },
+   "low_account_notifications_body": {
+      "message": "If you start running low (under 2 days of premium account or less than 5 GB of transfer), you'll receive a daily reminder."
+   },
+   "low_account_notifications_header": {
+      "message": "Low account notifications"
+   },
+   "messages": {
+      "message": "Messages"
+   },
+   "no_account": {
+      "message": "I don't have an account"
+   },
+   "no_links_body": {
+      "message": "Selection has no links that can be processed using Rapideo.pl."
+   },
+   "no_links_title": {
+      "message": "No links"
+   },
+   "not_logged_body": {
+      "message": "Please log in to use this functionality."
+   },
+   "not_logged_title": {
+      "message": "You are not logged into the extension"
+   },
+   "off": {
+      "message": "Off"
+   },
+   "on": {
+      "message": "On"
+   },
+   "password": {
+      "message": "Password"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "search": {
+      "message": "Search"
+   },
+   "service_messages_body": {
+      "message": "You receive notifications about changes and special bonuses from Rapideo in the background. Chose whether you want to see incoming messages automatically in the new tab. Note, that you can always see latest notifications from the plugin's main UI."
+   },
+   "service_messages_header": {
+      "message": "Show service messages in new tab"
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "show_hostings_button_body": {
+      "message": "Whenever you navigate to supported hosting website, a button appears in the top right corner, enabling quick file download. Set to on, if you want to see it. By clicking on the button you can also hide it for 24 hours."
+   },
+   "show_hostings_button_header": {
+      "message": "Show download button on supported hosting websites"
+   },
+   "submit": {
+      "message": "Submit"
+   },
+   "top_up_account": {
+      "message": "Top-up account"
+   },
+   "tos_privacy_policy": {
+      "message": "Terms and Conditions, Privacy Policy"
+   },
+   "transfer": {
+      "message": "Transfer"
+   },
+   "valid_untill": {
+      "message": "Valid untill: %when%"
+   }
+}

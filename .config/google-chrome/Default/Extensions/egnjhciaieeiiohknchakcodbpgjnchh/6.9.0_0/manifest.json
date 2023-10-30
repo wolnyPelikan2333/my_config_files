@@ -1,0 +1,38 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "img/icon.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extName__"
+   },
+   "commands": {
+      "wrangle-current-tab": {
+         "description": "Close current tab and save to corral",
+         "suggested_key": {
+            "default": "Ctrl+Shift+E",
+            "mac": "MacCtrl+Shift+W"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCb+J56MZpFate5Sv/fPumN9wZCwTzkd9w+HPgHSHGDIx6JruRfALUczt3ewgiR1KNgBhjs0PZSBkiRdIczOBZw7xfEouhEM9QuDW+8nrEFFMqwBP7DiB9WytuVkXsg83Fyy8eMmWv2WhgEQFRgi+MDWwyYmP6Dxyf1XqHhjIghnwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "28",
+   "name": "__MSG_extName__",
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "popup.html"
+   },
+   "permissions": [ "contextMenus", "sessions", "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "6.9.0",
+   "web_accessible_resources": [ "img/icon48.png" ]
+}

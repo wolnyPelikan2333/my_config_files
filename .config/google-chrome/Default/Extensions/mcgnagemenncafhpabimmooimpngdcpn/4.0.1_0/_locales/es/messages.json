@@ -1,0 +1,176 @@
+{
+   "conversion_complete": {
+      "message": "Conversión completa."
+   },
+   "ext_description": {
+      "message": "La extensión Qwer PDF es Conversión en línea de PDF a Word y Excel, PPT y PDF Editor - 100% gratis. Aumente su productividad."
+   },
+   "ext_name": {
+      "message": "Qwer PDF"
+   },
+   "logo_title_text": {
+      "message": "en línea y 100% gratis"
+   },
+   "notifications_conversion_complete_title": {
+      "message": " Conversión completa."
+   },
+   "notifications_conversion_failed_title": {
+      "message": "Error de conversión."
+   },
+   "notifications_conversion_msg": {
+      "message": "Herramienta de conversión en línea 100% gratuita"
+   },
+   "page_compress_pdf": {
+      "message": "Comprimir PDF"
+   },
+   "page_converting_hint": {
+      "message": "No cierre el navegador. Espere hasta que sus archivos se carguen y procesen. \u003Cbr> Esto puede demorar unos minutos. :)"
+   },
+   "page_converting_text": {
+      "message": "Convirtiendo {{title}} ..."
+   },
+   "page_download_btn_text": {
+      "message": "Descargar"
+   },
+   "page_edit_pdf": {
+      "message": "Editar PDF"
+   },
+   "page_excel_online": {
+      "message": "Excel Online"
+   },
+   "page_excel_online_create": {
+      "message": "Crear Excel "
+   },
+   "page_excel_online_editor": {
+      "message": "Excel Editar"
+   },
+   "page_excel_online_view": {
+      "message": "Excel Viewer"
+   },
+   "page_excel_to_pdf": {
+      "message": "Excel a PDF"
+   },
+   "page_html_to_pdf": {
+      "message": "HTML a PDF"
+   },
+   "page_jpg_to_pdf": {
+      "message": "JPG a PDF"
+   },
+   "page_login": {
+      "message": "Login"
+   },
+   "page_merge_pdf": {
+      "message": "Fusionar PDF"
+   },
+   "page_online_office": {
+      "message": "EN LÍNEA OFFICE"
+   },
+   "page_page_number": {
+      "message": "Número de página"
+   },
+   "page_pdf_convert": {
+      "message": "Convertir"
+   },
+   "page_pdf_to_excel": {
+      "message": "PDF a Excel"
+   },
+   "page_pdf_to_html": {
+      "message": "PDF a HTML"
+   },
+   "page_pdf_to_jpg": {
+      "message": "PDF a JPG"
+   },
+   "page_pdf_to_png": {
+      "message": "PDF a PNG"
+   },
+   "page_pdf_to_ppt": {
+      "message": "PDF a PPT"
+   },
+   "page_pdf_to_word": {
+      "message": "PDF a Word"
+   },
+   "page_png_to_pdf": {
+      "message": "PNG a PDF"
+   },
+   "page_powerpoint_viewer": {
+      "message": "PPT Viewer"
+   },
+   "page_ppt_online": {
+      "message": "PowerPoint Online"
+   },
+   "page_ppt_online_create": {
+      "message": "Crear PPT"
+   },
+   "page_ppt_online_editor": {
+      "message": "PPT Editar"
+   },
+   "page_ppt_to_pdf": {
+      "message": "PPT a PDF"
+   },
+   "page_protect_pdf": {
+      "message": "Proteger PDF"
+   },
+   "page_rateus": {
+      "message": "⭑Nos califica"
+   },
+   "page_remove_pdf": {
+      "message": "Eliminar páginas del"
+   },
+   "page_save_as_pdf": {
+      "message": "Guardar como pdf"
+   },
+   "page_sign_pdf": {
+      "message": "Firmar PDF"
+   },
+   "page_split_pdf": {
+      "message": "Dividir PDF"
+   },
+   "page_time_hint": {
+      "message": "Tiempo de retención de documentos"
+   },
+   "page_time_hours": {
+      "message": "Horas"
+   },
+   "page_time_minutes": {
+      "message": "Minutos"
+   },
+   "page_time_seconds": {
+      "message": "Segundos"
+   },
+   "page_unlock_pdf": {
+      "message": "Desbloquear PDF"
+   },
+   "page_upload_desc": {
+      "message": "Seleccione el archivo o arrastre el archivo aquí"
+   },
+   "page_upload_progress_text": {
+      "message": "Subiendo..."
+   },
+   "page_watermark_pdf": {
+      "message": "Marca de agua"
+   },
+   "page_word_online": {
+      "message": "Word Online"
+   },
+   "page_word_online_create": {
+      "message": "Crear Word"
+   },
+   "page_word_online_editor": {
+      "message": "Word Editar"
+   },
+   "page_word_online_view": {
+      "message": "Word Viewer"
+   },
+   "page_word_to_pdf": {
+      "message": "Word a PDF"
+   },
+   "upload_err_msg": {
+      "message": "Lo sentimos, se produjo un error al cargar el archivo. Vuelva a intentarlo más tarde."
+   },
+   "upload_file_too_big": {
+      "message": "El archivo es demasiado grande"
+   },
+   "upload_file_too_big_msg": {
+      "message": "El archivo es demasiado grande ({{filesize}} MiB). Tamaño máximo de archivo: {{maxFilesize}} MiB."
+   }
+}

@@ -1,0 +1,176 @@
+{
+   "conversion_complete": {
+      "message": "Konverze dokončena."
+   },
+   "ext_description": {
+      "message": "Rozšíření Qwer PDF je online převod PDF do Wordu a Excelu, PPT a PDF Editor - 100% zdarma. Zvyšte svou produktivitu."
+   },
+   "ext_name": {
+      "message": "Qwer PDF"
+   },
+   "logo_title_text": {
+      "message": "online a 100% zdarma"
+   },
+   "notifications_conversion_complete_title": {
+      "message": " Konverze dokončena."
+   },
+   "notifications_conversion_failed_title": {
+      "message": "Chyba převodu."
+   },
+   "notifications_conversion_msg": {
+      "message": "100% bezplatný online konverzní nástroj"
+   },
+   "page_compress_pdf": {
+      "message": "Komprimovat PDF"
+   },
+   "page_converting_hint": {
+      "message": "Nezavírejte prohlížeč. Počkejte, až se soubory nahrají a zpracují! \u003Cbr> Může to trvat několik minut.:)"
+   },
+   "page_converting_text": {
+      "message": "Převádění {{title}}..."
+   },
+   "page_download_btn_text": {
+      "message": "Stažení"
+   },
+   "page_edit_pdf": {
+      "message": "Upravit PDF"
+   },
+   "page_excel_online": {
+      "message": "Excel Online"
+   },
+   "page_excel_online_create": {
+      "message": "Excel tvorba"
+   },
+   "page_excel_online_editor": {
+      "message": "Upravit Excel"
+   },
+   "page_excel_online_view": {
+      "message": "Excel pohled"
+   },
+   "page_excel_to_pdf": {
+      "message": "Excel do PDF"
+   },
+   "page_html_to_pdf": {
+      "message": "HTML do PDF"
+   },
+   "page_jpg_to_pdf": {
+      "message": "JPG do PDF"
+   },
+   "page_login": {
+      "message": "Přihlásit se"
+   },
+   "page_merge_pdf": {
+      "message": "Sloučit PDF"
+   },
+   "page_online_office": {
+      "message": "ONLINE OFFICE"
+   },
+   "page_page_number": {
+      "message": "Číslo stránky"
+   },
+   "page_pdf_convert": {
+      "message": "Převést"
+   },
+   "page_pdf_to_excel": {
+      "message": "PDF do Excel"
+   },
+   "page_pdf_to_html": {
+      "message": "PDF do HTML"
+   },
+   "page_pdf_to_jpg": {
+      "message": "PDF do JPG"
+   },
+   "page_pdf_to_png": {
+      "message": "PDF do PNG"
+   },
+   "page_pdf_to_ppt": {
+      "message": "PDF do PPT"
+   },
+   "page_pdf_to_word": {
+      "message": "PDF do Word"
+   },
+   "page_png_to_pdf": {
+      "message": "PNG do PDF"
+   },
+   "page_powerpoint_viewer": {
+      "message": "PPT Pohled"
+   },
+   "page_ppt_online": {
+      "message": "PowerPoint Online"
+   },
+   "page_ppt_online_create": {
+      "message": "PPT tvorba"
+   },
+   "page_ppt_online_editor": {
+      "message": "Upravit PPT"
+   },
+   "page_ppt_to_pdf": {
+      "message": "PPT do PDF"
+   },
+   "page_protect_pdf": {
+      "message": "Chraňte PDF"
+   },
+   "page_rateus": {
+      "message": "⭑Ohodnoťte nás"
+   },
+   "page_remove_pdf": {
+      "message": "Odeberte stránky"
+   },
+   "page_save_as_pdf": {
+      "message": "Uložit jako PDF"
+   },
+   "page_sign_pdf": {
+      "message": "Podepsat PDF"
+   },
+   "page_split_pdf": {
+      "message": "Rozdělit PDF"
+   },
+   "page_time_hint": {
+      "message": "Doba uchování dokumentu"
+   },
+   "page_time_hours": {
+      "message": "Hodiny"
+   },
+   "page_time_minutes": {
+      "message": "Minuty"
+   },
+   "page_time_seconds": {
+      "message": "Sekundy"
+   },
+   "page_unlock_pdf": {
+      "message": "Odemkněte PDF"
+   },
+   "page_upload_desc": {
+      "message": "Zde vyberte soubor nebo jej přetáhněte"
+   },
+   "page_upload_progress_text": {
+      "message": "Odesílání..."
+   },
+   "page_watermark_pdf": {
+      "message": "Vodoznak"
+   },
+   "page_word_online": {
+      "message": "Word Online"
+   },
+   "page_word_online_create": {
+      "message": "Word tvorba"
+   },
+   "page_word_online_editor": {
+      "message": "Upravit Word"
+   },
+   "page_word_online_view": {
+      "message": "Word pohled"
+   },
+   "page_word_to_pdf": {
+      "message": "Word do PDF"
+   },
+   "upload_err_msg": {
+      "message": "Litujeme, při nahrávání souboru došlo k chybě. Zkuste to prosím znovu později."
+   },
+   "upload_file_too_big": {
+      "message": "Soubor je příliš velký"
+   },
+   "upload_file_too_big_msg": {
+      "message": "Soubor je příliš velký ({{filesize}} MiB). Maximální velikost souboru: {{maxFilesize}} MiB."
+   }
+}

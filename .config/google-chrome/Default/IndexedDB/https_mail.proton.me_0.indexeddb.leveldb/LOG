@@ -1,0 +1,36 @@
+2023/10/29-23:15:03.131 81c Reusing MANIFEST /home/michal/.config/google-chrome/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/29-23:15:03.132 81c Recovering log #8
+2023/10/29-23:15:03.132 81c Reusing old log /home/michal/.config/google-chrome/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000008.log 
+2023/10/29-23:15:03.132 81c Delete type=2 #7
+2023/10/29-23:15:05.895 81f Level-0 table #13: started
+2023/10/29-23:15:05.902 81f Level-0 table #13: 1576 bytes OK
+2023/10/29-23:15:05.905 81f Delete type=0 #8
+2023/10/29-23:15:05.906 81c Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 118 : 1
+2023/10/29-23:15:05.906 81c Compacting 1@0 + 1@1 files
+2023/10/29-23:15:05.907 81c Generated table #14@0: 45 keys, 938 bytes
+2023/10/29-23:15:05.907 81c Compacted 1@0 + 1@1 files => 938 bytes
+2023/10/29-23:15:05.909 81c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/29-23:15:05.909 81c Delete type=2 #13
+2023/10/29-23:15:05.910 81c Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 118 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/29-23:15:06.555 81c Level-0 table #16: started
+2023/10/29-23:15:06.556 81c Level-0 table #16: 811 bytes OK
+2023/10/29-23:15:06.559 81c Delete type=2 #10
+2023/10/29-23:15:06.559 81c Delete type=0 #12
+2023/10/29-23:15:06.560 81c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 135 : 1
+2023/10/29-23:15:06.560 81c Compacting 1@0 + 1@1 files
+2023/10/29-23:15:06.562 81c Generated table #17@0: 49 keys, 983 bytes
+2023/10/29-23:15:06.562 81c Compacted 1@0 + 1@1 files => 983 bytes
+2023/10/29-23:15:06.564 81c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/29-23:15:06.564 81c Delete type=2 #16
+2023/10/29-23:15:06.564 81c Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 135 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/29-23:15:06.564 81c Level-0 table #19: started
+2023/10/29-23:15:06.565 81c Level-0 table #19: 811 bytes OK
+2023/10/29-23:15:06.567 81c Delete type=2 #14
+2023/10/29-23:15:06.567 81c Delete type=0 #15
+2023/10/29-23:15:06.567 81c Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 154 : 1
+2023/10/29-23:15:06.567 81c Compacting 1@0 + 1@1 files
+2023/10/29-23:15:06.568 81c Generated table #20@0: 53 keys, 1026 bytes
+2023/10/29-23:15:06.568 81c Compacted 1@0 + 1@1 files => 1026 bytes
+2023/10/29-23:15:06.570 81c compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/29-23:15:06.571 81c Delete type=2 #19
+2023/10/29-23:15:06.571 81c Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 154 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
